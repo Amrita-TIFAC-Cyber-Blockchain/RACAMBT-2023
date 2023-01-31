@@ -31,8 +31,8 @@
 
 ## Session Details 
 
- - ![](https://img.shields.io/badge/-Session_1-blue)  Mr. Venkata Putrevu Sai Charan : Challenges in detection and attribution of Advanced Persistent Threats
- - ![](https://img.shields.io/badge/-Session_2-blue) 
+ - ![](https://img.shields.io/badge/-Session_1-blue) Mr. Venkata Putrevu Sai Charan : Challenges in detection and attribution of Advanced Persistent Threats
+ - ![](https://img.shields.io/badge/-Session_2-blue) Dr. Jubilant J Kizhakkethottam : Blockchain Implementations in IoT for Supply Chain Management
  - ![](https://img.shields.io/badge/-Session_3-blue) 
  - ![](https://img.shields.io/badge/-Session_4-blue) 
  - ![](https://img.shields.io/badge/-Session_5-blue)  
