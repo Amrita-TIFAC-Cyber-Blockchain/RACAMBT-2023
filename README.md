@@ -14,9 +14,9 @@
 
 | Slot | Day 1 <br> (27th Feb - Mon) <br> ![](https://img.shields.io/badge/-Session_1-blue) | Day 2 <br> (28th Feb - Tue) <br> ![](https://img.shields.io/badge/-Session_2-blue) | Day 3 <br> (1st Mar - Wed) <br> ![](https://img.shields.io/badge/-Session_3-blue) | Day 4 <br> (2nd Mar - Thu) <br> ![](https://img.shields.io/badge/-Session_4-blue) | Day 5 <br> (3rd Mar - Fri) <br> ![](https://img.shields.io/badge/-Session_5-blue) | Day 6 <br> (4th Mar - Sat) <br> ![](https://img.shields.io/badge/-Session_6-blue) |
 |:----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| **I** <br>  **7:00-7:50 PM** | |   |   |   |   |  | | 
-| **II** <br> **8:00-8:50 PM** |  | |  |  |  |  |  |
-| **Int.** <br> **9:00-9:30 PM** |  |  | |  |  |  | |
+| ![](https://img.shields.io/badge/-I-darkblue) <br>  **7:00-7:50 PM** | ![](https://img.shields.io/badge/-Session_1-blue) ![](https://img.shields.io/badge/-I-darkblue) |  ![](https://img.shields.io/badge/-Session_2-blue) ![](https://img.shields.io/badge/-I-darkblue)  |  ![](https://img.shields.io/badge/-Session_3-blue) ![](https://img.shields.io/badge/-I-darkblue) |  ![](https://img.shields.io/badge/-Session_4-blue) ![](https://img.shields.io/badge/-I-darkblue) |  ![](https://img.shields.io/badge/-Session_5-blue) ![](https://img.shields.io/badge/-I-darkblue) | ![](https://img.shields.io/badge/-Session_6-blue) ![](https://img.shields.io/badge/-I-darkblue) | 
+| ![](https://img.shields.io/badge/-II-darkblue) <br> **8:00-8:50 PM** | ![](https://img.shields.io/badge/-Session_1-blue) ![](https://img.shields.io/badge/-II-darkblue) |  ![](https://img.shields.io/badge/-Session_2-blue) ![](https://img.shields.io/badge/-II-darkblue)  |  ![](https://img.shields.io/badge/-Session_3-blue) ![](https://img.shields.io/badge/-II-darkblue) |  ![](https://img.shields.io/badge/-Session_4-blue) ![](https://img.shields.io/badge/-II-darkblue) |  ![](https://img.shields.io/badge/-Session_5-blue) ![](https://img.shields.io/badge/-II-darkblue) | ![](https://img.shields.io/badge/-Session_6-blue) ![](https://img.shields.io/badge/-II-darkblue) | 
+| ![](https://img.shields.io/badge/-Interactions-darkblue) <br> **9:00-9:30 PM** |  |  | |  |  |  | |
 
 ## Offline 
 
@@ -34,23 +34,23 @@
 ## Session Details 
 
  | Session | Resource Person & Topic |
- |:-------:|:-----------------------|
- | ![](https://img.shields.io/badge/-Session_1_I-blue) | Dr. Vasudevan AR:  |
- | ![](https://img.shields.io/badge/-Session_1_II-blue) | Mr. Venkata Putrevu Sai Charan: Challenges in detection and attribution of Advanced Persistent Threats |
- | ![](https://img.shields.io/badge/-Session_2_I-blue) | Prof. Avishek Adhikari: Cryptography for Blockchain  |
- | ![](https://img.shields.io/badge/-Session_2_II-blue) | Ms. Gandavaram Anuhya:  |
- | ![](https://img.shields.io/badge/-Session_3_I-blue) | Dr. Vasily Sachnev:  |
- | ![](https://img.shields.io/badge/-Session_3_II-blue) | Prof. Mayank Agarwal: |
- | ![](https://img.shields.io/badge/-Session_4_I-blue) | Dr. Sivagami R: Deep Dive into Deep Learning  |
- | ![](https://img.shields.io/badge/-Session_4_II-blue) | Dr. Sangeetha V:    |
- | ![](https://img.shields.io/badge/-Session_5-blue) | Prof. Jubilant J Kizhakkethottam : Blockchain Implementations in IoT for Supply Chain Management   |
- | ![](https://img.shields.io/badge/-Session_6_I-blue) | Dr. Anoop: Natural Language Processing |
- | ![](https://img.shields.io/badge/-Session_6_II-blue) | Dr. Anupam Tiwari: Bitcoin Forensics |
- | ![](https://img.shields.io/badge/-Session_7-blue) | Mr. Maharaj : Recent Challenges in Enterprise Blockchain Projects with Review  |
- | ![](https://img.shields.io/badge/-Session_8-blue) | Dr. Sivagami R: Hands-On - Image Analysis using Deep Learning |
- | ![](https://img.shields.io/badge/-Session_9-blue) | Mr. Ramaguru Radhakrishnan: Smart Contracts Implementation  |
- | ![](https://img.shields.io/badge/-Session_10-blue) | Mr. Vigneswaran: Smart Contract Security |
- | ![](https://img.shields.io/badge/-Session_11-blue) | Mr. Alex Neelankavil Devassy: Blockchain Vulnerabiltiy Assessment and PenTesting |
- | ![](https://img.shields.io/badge/-Session_12-blue) | Dr. Sangeetha V: Cyber Security for AI |
- | ![](https://img.shields.io/badge/-Session_13-blue) | Mr. Sivadanam Yaswanth Lingam: Implications of GDPR on Blockchain Technology |
- | ![](https://img.shields.io/badge/-Session_14-blue) | Prof. Amit Agarwal : Challenges in Adopting Blockchain Technology |
+ |:-------|:-----------------------|
+ | ![](https://img.shields.io/badge/-Online-pink) ![](https://img.shields.io/badge/-Session_1-blue) ![](https://img.shields.io/badge/-I-darkblue) | **Dr. Vasudevan AR,** Asst. Professor, NIT Calicut <br>   <br> ![](https://img.shields.io/badge/-ML-brown) ![](https://img.shields.io/badge/-Cyber_Security-platinum) |
+ | ![](https://img.shields.io/badge/-Online-pink) ![](https://img.shields.io/badge/-Session_1-blue) ![](https://img.shields.io/badge/-II-darkblue) | **Mr. Venkata Putrevu Sai Charan**, PMRF Research Scholar, IIT Kanpur <br/> Challenges in detection and attribution of Advanced Persistent Threats <br> ![](https://img.shields.io/badge/-ML-brown) ![](https://img.shields.io/badge/-Cyber_Security-platinum) |
+ | ![](https://img.shields.io/badge/-Online-pink) ![](https://img.shields.io/badge/-Session_2-blue) ![](https://img.shields.io/badge/-I-darkblue) | **Prof. Avishek Adhikari,** Head of Dept, Presidency University, Kolkata <br> Cryptography for Blockchain <br> ![](https://img.shields.io/badge/-Blockchain-gold)  |
+ | ![](https://img.shields.io/badge/-Online-pink) ![](https://img.shields.io/badge/-Session_2-blue) ![](https://img.shields.io/badge/-II-darkblue) | **Ms. Gandavaram Anuhya.** Blockchain Developer, Param Networks, Bengaluru <br> Blockchain Technology and Cryptocurrency <br> ![](https://img.shields.io/badge/-Blockchain-gold) |
+ | ![](https://img.shields.io/badge/-Online-pink) ![](https://img.shields.io/badge/-Session_3-blue) ![](https://img.shields.io/badge/-I-darkblue) | **Dr. Vasily Sachnev,** Asso. Professor, The Catholic University of Korea <br>  <br> ![](https://img.shields.io/badge/-ML-brown) ![](https://img.shields.io/badge/-Cyber_Security-platinum)|
+ | ![](https://img.shields.io/badge/-Online-pink) ![](https://img.shields.io/badge/-Session_3-blue) ![](https://img.shields.io/badge/-II-darkblue) | **Prof. Mayank Agarwal,** Asst. Professor, IIT Patna <br> <br> ![](https://img.shields.io/badge/-ML-brown) ![](https://img.shields.io/badge/-Cyber_Security-platinum) |
+ | ![](https://img.shields.io/badge/-Online-pink) ![](https://img.shields.io/badge/-Session_4-blue) ![](https://img.shields.io/badge/-I-darkblue) | **Dr. Sivagami R,** Research Associate, Amrita Vishwa Vidyapeetham <br> Deep Dive into Deep Learning <br> ![](https://img.shields.io/badge/-DL-brown) ![](https://img.shields.io/badge/-Cyber_Security-platinum) |
+ | ![](https://img.shields.io/badge/-Online-pink) ![](https://img.shields.io/badge/-Session_4-blue) ![](https://img.shields.io/badge/-II-darkblue) | **Dr. Sangeetha V,** Asst. Professor, BITS-Pilani, Bengaluru <br>  <br> ![](https://img.shields.io/badge/-ML-brown) ![](https://img.shields.io/badge/-Cyber_Security-platinum)  |
+ | ![](https://img.shields.io/badge/-Online-pink) ![](https://img.shields.io/badge/-Session_5-blue) | **Prof. Jubilant J Kizhakkethottam,** Head Blockchain, Saintgits College of Engineering, Kottayam <br> Blockchain Implementations in IoT for Supply Chain Management   <br> ![](https://img.shields.io/badge/-Blockchain-gold) |
+ | ![](https://img.shields.io/badge/-Online-pink) ![](https://img.shields.io/badge/-Session_6-blue) ![](https://img.shields.io/badge/-I-darkblue) | **Dr. Anoop,** Kerala Digital University <br> Natural Language Processing  <br> ![](https://img.shields.io/badge/-AI-brown) |
+ | ![](https://img.shields.io/badge/-Online-pink) ![](https://img.shields.io/badge/-Session_6-blue) ![](https://img.shields.io/badge/-II-darkblue) | **Dr. Anupam Tiwari,** <br> Bitcoin Forensics <br> ![](https://img.shields.io/badge/-Blockchain-gold) ![](https://img.shields.io/badge/-Cyber_Security-platinum) |
+ | ![](https://img.shields.io/badge/-Offline-purple) ![](https://img.shields.io/badge/-Session_7-blue) | **Mr. Maharaj,** Founder and CEO, BCBuzz Technologies, Coimbatore <br> Recent Challenges in Enterprise Blockchain Projects with Review  <br> ![](https://img.shields.io/badge/-Blockchain-gold) |
+ | ![](https://img.shields.io/badge/-Offline-purple) ![](https://img.shields.io/badge/-Session_8-blue) | **Dr. Sivagami R,** Research Associate, Amrita Vishwa Vidyapeetham <br> Hands-On - Image Analysis using Deep Learning <br> ![](https://img.shields.io/badge/-DL-brown) ![](https://img.shields.io/badge/-Cyber_Security-platinum) |
+ | ![](https://img.shields.io/badge/-Offline-purple) ![](https://img.shields.io/badge/-Session_9-blue) | **Mr. Ramaguru Radhakrishnan,** Asst. Professor, Amrita Vishwa Vidyapeetham <br> Smart Contracts Implementation <br> ![](https://img.shields.io/badge/-Blockchain-gold) |
+ | ![](https://img.shields.io/badge/-Offline-purple) ![](https://img.shields.io/badge/-Session_10-blue) | **Mr. Vigneswaran,** Consultant, Cybersecurity and Privacy Research & Innovation group, TCS <br> Smart Contract Auditing <br> ![](https://img.shields.io/badge/-Blockchain-gold) ![](https://img.shields.io/badge/-Cyber_Security-platinum) |
+ | ![](https://img.shields.io/badge/-Offline-purple) ![](https://img.shields.io/badge/-Session_11-blue) | **Mr. Alex Neelankavil Devassy,** Senior Security Consultant, EY, Thiruvananthapuram <br> Blockchain Vulnerabiltiy Assessment and PenTesting <br> ![](https://img.shields.io/badge/-Blockchain-gold) ![](https://img.shields.io/badge/-Cyber_Security-platinum) |
+ | ![](https://img.shields.io/badge/-Offline-purple) ![](https://img.shields.io/badge/-Session_12-blue) | **Dr. Sangeetha V,** Asst. Professor, BITS-Pilani, Bengaluru <br>  Cyber Security for AI <br> ![](https://img.shields.io/badge/-AI-brown) ![](https://img.shields.io/badge/-Cyber_Security-platinum)  |
+ | ![](https://img.shields.io/badge/-Offline-purple) ![](https://img.shields.io/badge/-Session_13-blue) | **Mr. Sivadanam Yaswanth Lingam,** Cyber Security Analyst, Groww, Bengaluru <br> Implications of GDPR on Blockchain Technology <br> ![](https://img.shields.io/badge/-Blockchain-gold) |
+ | ![](https://img.shields.io/badge/-Offline-purple) ![](https://img.shields.io/badge/-Session_14-blue) | **Prof. Amit Agarwal,** Dept. of EEE, Amrita Vishwa Vidyapeetham <br> Challenges in Adopting Blockchain Technology <br> ![](https://img.shields.io/badge/-Blockchain-gold) ![](https://img.shields.io/badge/-AI-brown) ![](https://img.shields.io/badge/-Cyber_Security-platinum) |
