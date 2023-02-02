@@ -3,6 +3,20 @@
 ![](https://img.shields.io/badge/Online_Start-27th_Feb-red) ![](https://img.shields.io/badge/Online_End-4th_Mar-red) <br/>
 ![](https://img.shields.io/badge/Offline_Start-6th_Mar-orange) ![](https://img.shields.io/badge/Offline_End-10th_Mar-orange) <br/>
 
+<p align="center">
+    <img src="https://amrita-tifac-cyber-blockchain.github.io/Amrita-TIFAC-Cyber-Blockchain/AVV_PNG.png" alt ="Amrita" width="240" /> <br/>
+    <img src="https://amrita-tifac-cyber-blockchain.github.io/Amrita-TIFAC-Cyber-Blockchain/TIFAC-CORE_in_Cyber_Security.png" alt ="TIFAC-CYBER" width="90" />
+</p>
+
+<p align="center">
+ <h1> AICTE-ATAL: A Two-Weeks Hybrid Faculty Development Program </h1>
+<p>
+<p align="center">
+    <img src="Assets/images/AICTE_Logo.png" alt ="AICTE" width="160" />
+    <img src="Assets/images/ATAL_Logo.png" alt ="ATAL" width="170" />
+</p>
+
+
 ## Research Articles/Papers
 
 - **Article 1:** [Medical Records Management Using Distributed Ledger and Storage](Articles/AVV_2021_Medical_Records_Management_Using_Distributed_Ledger_and_Storage.pdf)
@@ -26,7 +40,7 @@
 | **FN** <br> **9:30 - 12:00 PM**  | ![](https://img.shields.io/badge/-Session_7-blue) <br>  |  ![](https://img.shields.io/badge/-Session_9-blue) <br> |  ![](https://img.shields.io/badge/-Session_11-blue) <br>  | ![](https://img.shields.io/badge/-Session_13-blue) <br>  | ![](https://img.shields.io/badge/-Project_Charter-darkgreen) <br> |
 | **Noon** <br> **12:00 - 1:00 PM**  | [![](https://img.shields.io/badge/-Article_1_Discussion-purple)](Articles/AVV_2021_Medical_Records_Management_Using_Distributed_Ledger_and_Storage.pdf) <br>   | [![](https://img.shields.io/badge/-Article_2_Discussion-purple)](Articles/2022_Digital_Supply_Chain_Management_Using_AI_ML_and_Blockchain.pdf) <br>  | [![](https://img.shields.io/badge/-Article_3_Discussion-purple)](Articles/2021_Machine_learning_in_for_blockchain_Future_and_challenges.pdf) <br> | [![](https://img.shields.io/badge/-Article_4_Discussion-purple)](Articles/2019_Blockchain_for_AI_Review_and_Open_Research_Challenges.pdf) <br> |  ![](https://img.shields.io/badge/-Assessments-darkblue) <br>   |
 | **Lunch** <br> **1:00 - 2:00 PM**   | ![](https://img.shields.io/badge/-Break-black) <br> | ![](https://img.shields.io/badge/-Break-black) <br> | ![](https://img.shields.io/badge/-Break-black) <br> | ![](https://img.shields.io/badge/-Break-black) <br> | ![](https://img.shields.io/badge/-Break-black) <br> |
-| **AN** <br> **2:00 - 4:30 PM**  | ![](https://img.shields.io/badge/-Session_8-blue)  <br> | ![](https://img.shields.io/badge/-Session_10-blue) <br> | ![](https://img.shields.io/badge/-Session_12-blue) <br> | ![](https://img.shields.io/badge/-Session_14-blue) <br> | ![](https://img.shields.io/badge/-Reflection_Journal-darkblue) <br> |
+| **AN** <br> **2:00 - 4:30 PM**  | ![](https://img.shields.io/badge/-Session_8-blue)  <br> | ![](https://img.shields.io/badge/-Session_10-blue) <br> | ![](https://img.shields.io/badge/-Session_12-blue) <br> | ![](https://img.shields.io/badge/-Session_14-blue) <br> | [![](https://img.shields.io/badge/-Reflection_Journal-darkblue)]() <br> |
 | **AN** <br> **3:00 - 4:00 PM**   |  |  |  | | ![](https://img.shields.io/badge/-Feedback-darkblue) <br>  |
 | **AN** <br> **4:00 - 5:00 PM** |  |  | | | ![](https://img.shields.io/badge/-Valedictory-darkgreen) <br>    | 
 
@@ -49,10 +63,10 @@
  | ![](https://img.shields.io/badge/-6th_Mar-darkgreen) <br> ![](https://img.shields.io/badge/-Offline-purple) ![](https://img.shields.io/badge/-Session_7-blue) | [Mr. Maharaj M](RP/Maharaj), Founder and CEO, BCBuzz Technologies, Coimbatore <br> **Recent Challenges in Enterprise Blockchain Projects**  <br> ![](https://img.shields.io/badge/-Blockchain-gold) <br> ![](https://img.shields.io/badge/-Industry-black) |
  |![](https://img.shields.io/badge/-6th_Mar-darkgreen) <br>  ![](https://img.shields.io/badge/-Offline-purple) ![](https://img.shields.io/badge/-Session_8-blue) | [Dr. Sivagami R](RP/Sivagami), Research Associate, Amrita Vishwa Vidyapeetham <br> **Hands-On: Image Analysis using Deep Learning Techniques** <br> ![](https://img.shields.io/badge/-DL-brown) ![](https://img.shields.io/badge/-Cyber_Security-platinum) <br>   ![](https://img.shields.io/badge/-Academia-brown) |
  | ![](https://img.shields.io/badge/-7th_Mar-darkgreen) <br> ![](https://img.shields.io/badge/-Offline-purple) ![](https://img.shields.io/badge/-Session_9-blue) | [Mr. Ramaguru Radhakrishnan](RP/Ram), Asst. Professor, Amrita Vishwa Vidyapeetham, Coimbatore <br> **Hands-On: Smart Contract Implementation using Solidity** <br> ![](https://img.shields.io/badge/-Blockchain-gold) <br>   ![](https://img.shields.io/badge/-Academia-brown) |
- | ![](https://img.shields.io/badge/-7th_Mar-darkgreen) <br> ![](https://img.shields.io/badge/-Offline-purple) ![](https://img.shields.io/badge/-Session_10-blue) | [Mr. Vigneswaran R](RP/Vignesh), Consultant, Cybersecurity and Privacy Research & Innovation group, TCS <br> **Smart Contract Auditing** <br> ![](https://img.shields.io/badge/-Blockchain-gold) ![](https://img.shields.io/badge/-Cyber_Security-platinum) <br> ![](https://img.shields.io/badge/-Industry-black) |
+ | ![](https://img.shields.io/badge/-7th_Mar-darkgreen) <br> ![](https://img.shields.io/badge/-Offline-purple) ![](https://img.shields.io/badge/-Session_10-blue) | [Mr. Vigneswaran R](RP/Vigneswaran), Consultant, Cybersecurity and Privacy Research & Innovation group, TCS <br> **Smart Contract Auditing** <br> ![](https://img.shields.io/badge/-Blockchain-gold) ![](https://img.shields.io/badge/-Cyber_Security-platinum) <br> ![](https://img.shields.io/badge/-Industry-black) |
  | ![](https://img.shields.io/badge/-8th_Mar-darkgreen) <br> ![](https://img.shields.io/badge/-Offline-purple) ![](https://img.shields.io/badge/-Session_11-blue) | [Mr. Alex Neelankavil Devassy](RP/Alex), Senior Security Consultant, EY, Thiruvananthapuram <br> **Blockchain Vulnerabiltiy Assessment and PenTesting** <br> ![](https://img.shields.io/badge/-Blockchain-gold) ![](https://img.shields.io/badge/-Cyber_Security-platinum) <br> ![](https://img.shields.io/badge/-Industry-black) |
  | ![](https://img.shields.io/badge/-8th_Mar-darkgreen) <br> ![](https://img.shields.io/badge/-Offline-purple) ![](https://img.shields.io/badge/-Session_12-blue) | [Dr. Sangeetha V](RP/Sangeetha), Asst. Professor (Gr-I), BITS, Pilani - WILP (Division), Bengaluru <br>  **Securing AI Models: A Case Study on ChatGPT** <br> ![](https://img.shields.io/badge/-AI-brown) ![](https://img.shields.io/badge/-Cyber_Security-platinum) <br> ![](https://img.shields.io/badge/-Academia-brown)  |
  | ![](https://img.shields.io/badge/-9th_Mar-darkgreen) <br> ![](https://img.shields.io/badge/-Offline-purple) ![](https://img.shields.io/badge/-Session_13-blue) | [Mr. Sivadanam Yaswanth Lingam](RP/Yaswanth), Cyber Security Analyst, Groww, Bengaluru <br> **Implications of GDPR on Blockchain Technology** <br> ![](https://img.shields.io/badge/-Blockchain-gold)  <br> ![](https://img.shields.io/badge/-Alumni-gold) ![](https://img.shields.io/badge/-Industry-black) |
  | ![](https://img.shields.io/badge/-9th_Mar-darkgreen) <br> ![](https://img.shields.io/badge/-Offline-purple) ![](https://img.shields.io/badge/-Session_14-blue) | [Prof. Amit Agarwal](RP/Amit), Dept. of EEE, Amrita Vishwa Vidyapeetham, Coimbatore <br> **Challenges in Adopting Blockchain Technology** <br> ![](https://img.shields.io/badge/-Blockchain-gold) ![](https://img.shields.io/badge/-AI-brown) ![](https://img.shields.io/badge/-Cyber_Security-platinum)  <br>   ![](https://img.shields.io/badge/-Academia-brown) ![](https://img.shields.io/badge/-Industry-black)  |
  
- ###### Last Updated: 02-Feb-2023
+###### Last Updated: 02-Feb-2023
