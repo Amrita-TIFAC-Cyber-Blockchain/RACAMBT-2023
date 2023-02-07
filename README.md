@@ -1,4 +1,4 @@
-# Recent Advances and Challenges in Artificial Intelligence, Machine Learning & Blockchain Technology (RACAMBT) - 2023 ![](https://img.shields.io/badge/-Live-darkgreen)
+# [Recent Advances and Challenges in Artificial Intelligence, Machine Learning & Blockchain Technology (RACAMBT) - 2023](https://www.amrita.edu/events/racambt/) ![](https://img.shields.io/badge/-Live-darkgreen)
 ![](https://img.shields.io/badge/Focus-AI-blue) ![](https://img.shields.io/badge/Focus-ML-blue) ![](https://img.shields.io/badge/Focus-DL-blue) ![](https://img.shields.io/badge/Focus-Blockchain-blue) ![](https://img.shields.io/badge/Mode-Online/Offline-black) <br/>
 ![](https://img.shields.io/badge/Online_Start-27th_Feb-red) ![](https://img.shields.io/badge/Online_End-4th_Mar-red) <br/>
 ![](https://img.shields.io/badge/Offline_Start-6th_Mar-orange) ![](https://img.shields.io/badge/Offline_End-10th_Mar-orange) <br/>
@@ -17,6 +17,7 @@
     <img src="Assets/images/ATAL_Logo.png" alt ="ATAL" width="170" />
 </p>
 
+[Click Here](Assets/Brochure_Final.pdf) to download the Brochure
 
 ## Research Articles/Papers
 
@@ -70,4 +71,4 @@
  | ![](https://img.shields.io/badge/-9th_Mar-darkgreen) <br> ![](https://img.shields.io/badge/-Offline-purple) ![](https://img.shields.io/badge/-Session_13-blue) | [Mr. Sivadanam Yaswanth Lingam](RP/Yaswanth), Cyber Security Analyst, Groww, Bengaluru <br> **Implications of GDPR on Blockchain Technology (D)** <br> ![](https://img.shields.io/badge/-Blockchain-gold)  <br> ![](https://img.shields.io/badge/-Alumni-gold) ![](https://img.shields.io/badge/-Industry-black) |
  | ![](https://img.shields.io/badge/-9th_Mar-darkgreen) <br> ![](https://img.shields.io/badge/-Offline-purple) ![](https://img.shields.io/badge/-Session_14-blue) | [Prof. Amit Agarwal](RP/Amit), Dept. of EEE, Amrita Vishwa Vidyapeetham, Coimbatore <br> **Challenges in Adopting Blockchain Technology** <br> ![](https://img.shields.io/badge/-Blockchain-gold) ![](https://img.shields.io/badge/-AI-brown) ![](https://img.shields.io/badge/-Cyber_Security-platinum)  <br>   ![](https://img.shields.io/badge/-Academia-brown) ![](https://img.shields.io/badge/-Industry-black)  |
  
-######  Last Updated: 06-Feb-2023
+######  Last Updated: 08-Feb-2023
