@@ -4,3 +4,7 @@
 ![](https://img.shields.io/badge/Offline_Start-6th_Mar-orange) ![](https://img.shields.io/badge/Offline_End-10th_Mar-orange) <br/>
 
 ## Resource Person - Profile 
+**Sivagami**
+
+-Currently working as Assistant Professor at The Catholic University of Korea.
+-PhD. in Computer and Information Systems security/ Information Assurance.
