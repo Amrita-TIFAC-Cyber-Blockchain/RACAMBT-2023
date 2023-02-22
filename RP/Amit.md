@@ -4,3 +4,8 @@
 ![](https://img.shields.io/badge/Offline_Start-6th_Mar-orange) ![](https://img.shields.io/badge/Offline_End-10th_Mar-orange) <br/>
 
 ## Resource Person - Profile 
+
+** Amit Agarwal **
+
+-Currently working as Professor in the Department of EEE at Amrita Vishwa Vidyapeetham, Coimbatore.
+-His Research focus is Machine Learning Applications in Agriculture, Robotics and Communication Signals.
