@@ -4,3 +4,14 @@
 ![](https://img.shields.io/badge/Offline_Start-6th_Mar-orange) ![](https://img.shields.io/badge/Offline_End-10th_Mar-orange) <br/>
 
 ## Resource Person - Profile 
+
+**Jubilant J Kizhakkethottam**
+
+-Currently working as a professor in Saintgits college of engineering, Kottayam.
+-Lead in the Blockchain Lab.
+-M Tech Computer Science and Engineering (VTU , Belgam).
+-Master of Business Administration  ( M G University).
+-MSc Psychology ( Bharithiyar University).
+-PG Diploma in Cyber Law( Mumbai Law University).
+-PhD in CSE – Information & Communication Engineering (Anna University, Chennai).
+
