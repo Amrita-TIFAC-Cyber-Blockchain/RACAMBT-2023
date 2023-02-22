@@ -71,4 +71,4 @@
  | ![](https://img.shields.io/badge/-9th_Mar-darkgreen) <br> ![](https://img.shields.io/badge/-Offline-purple) ![](https://img.shields.io/badge/-Session_13-blue) | [Mr. Sivadanam Yaswanth Lingam](RP/Yaswanth), Cyber Security Analyst, Groww, Bengaluru <br> **Implications of GDPR on Blockchain Technology (D)** <br> ![](https://img.shields.io/badge/-Blockchain-gold)  <br> ![](https://img.shields.io/badge/-Alumni-gold) ![](https://img.shields.io/badge/-Industry-black) |
  | ![](https://img.shields.io/badge/-9th_Mar-darkgreen) <br> ![](https://img.shields.io/badge/-Offline-purple) ![](https://img.shields.io/badge/-Session_14-blue) | [Prof. Amit Agarwal](RP/Amit), Dept. of EEE, Amrita Vishwa Vidyapeetham, Coimbatore <br> **Challenges in Adopting Blockchain Technology** <br> ![](https://img.shields.io/badge/-Blockchain-gold) ![](https://img.shields.io/badge/-AI-brown) ![](https://img.shields.io/badge/-Cyber_Security-platinum)  <br>   ![](https://img.shields.io/badge/-Academia-brown) ![](https://img.shields.io/badge/-Industry-black)  |
  
-######  Last Updated: 08-Feb-2023
+######  Last Updated: 22-Feb-2023
