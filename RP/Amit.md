@@ -5,7 +5,7 @@
 
 ## Resource Person - Profile 
 
-** Amit Agarwal **
+**Amit Agarwal**
 
--Currently working as Professor in the Department of EEE at Amrita Vishwa Vidyapeetham, Coimbatore.
--His Research focus is Machine Learning Applications in Agriculture, Robotics and Communication Signals.
+- Currently working as Professor in the Department of EEE at Amrita Vishwa Vidyapeetham, Coimbatore.
+- His Research focus is Machine Learning Applications in Agriculture, Robotics and Communication Signals.
