@@ -1,0 +1,73 @@
+# [Recent Advances and Challenges in Artificial Intelligence, Machine Learning & Blockchain Technology (RACAMBT) - 2023](https://www.amrita.edu/events/racambt/) ![](https://img.shields.io/badge/-Live-darkgreen)
+![](https://img.shields.io/badge/Focus-AI-blue) ![](https://img.shields.io/badge/Focus-ML-blue) ![](https://img.shields.io/badge/Focus-DL-blue) ![](https://img.shields.io/badge/Focus-Blockchain-blue) ![](https://img.shields.io/badge/Mode-Online/Offline-black) <br/>
+![](https://img.shields.io/badge/Online_Start-27th_Feb-red) ![](https://img.shields.io/badge/Online_End-4th_Mar-red) <br/>
+![](https://img.shields.io/badge/Offline_Start-6th_Mar-orange) ![](https://img.shields.io/badge/Offline_End-10th_Mar-orange) <br/>
+
+
+## Day 01
+
+A very pleasant evening to one and all present here.
+We cordially welcome all of you to the AICTE-ATAL sponsored Two-week Hybrid Faculty Development Program on "Recent Advances and challenges in Artificial Intelligence, Machine Learning and Blockchain Technology" 2023.
+I am Aishwarya GS , I am Harshitha Ranjith, And we are from 2nd year B.Tech. Cyber Security. We will be the hosts for this year's FDP. 
+
+Let us all start the session with a Prayer song.
+
+This FDP is a Two-week Hybrid session where there are sessions held online as well as offline. The sessions from 27th February to 4th march will be held online and the sessions held from 6th march to 10th march will be held offline in Amrita Vishwa Vidyapeetham, Coimbatore campus.
+
+Before we start the session, here are certain guidelines to be followed.
+- All are requested to kindly keep your microphone muted throughout the session
+- The video cameras can also be turned off
+- In necessary cases of interacting with the session resource person, only then it is required to unmute your mic and turn on the video feed.
+- Questions can be posted through the chat option available in MS Teams.
+
+Now we call upon Dr. Prashanth R Nair, Coordinator of this FDP, Vice-Chairman of IQAC, Associate Prof., Dept. of Computer Science, to share a few words about the faculty development program and set the context for the benefit of all participants.
+
+---
+
+Thank you, sir.
+
+### Session 1-I
+
+Without any furthur ado, I call upon our first speaker of the evening, Mr Venkata Sai Charan Putrevu to deliver his talk on the topic "A Threat Model for Target-Specific APT Attacks – Misusing ML Services".
+
+Mr. Venkata Sai Charan Putrevu
+- is a Programmer & Technology enthusiast, and is currently pursuing his Doctoral Research in Computer Science & Engineering, @Indian Institute of Technology, Kanpur as a Prime Minister’s Research Fellow.
+- Mr. Venkata Sai Charan has also completed his M.Tech in Cyber Security from our very own TIFAC-CORE centre in Cyber Security at Amrita Vishwa Vidyapeetham, during which he worked as a Research Intern in DELL-RSA for developing API Framework for RSA Archer Elastic Search Engine
+- He has Worked in CISCO N7k Team as a Software Developer and also as Intern in Yazhali Farmers Producer Company(FPO); which mainly working inorder to make agriculture profitable in villages using advanced technology,  there by supporting sustainable economy with high happiness index and creating self sustained and self reliant villages.
+
+Over to you, sir.
+
+---
+
+Thank you sir, for your very informative talk.
+
+...
+...
+...
+
+As a token of love and gratitude, we would like to offer a virtual memento to our session resource person, Mr Venkata Sai Charan Putrevu, for his time.
+
+Thank you.
+
+Now, I would like to request all participants to join the second link after a 10-minute break for our next session.
+
+### Session 1-II
+We welcome all of you back for our next session of today FDP.
+
+We have amongst us, Dr. Vasudevan AR, for his lecture on the topic "Machine Learning and Intrusion Detection System".
+
+-Dr. Vasudevan AR, currently works as an Assistant Professor in NIT Calicut and as a research associate in Amrita Vishwa Vidyapeetham
+-He has done his Doctor of Philosophy in Network Security - 2016, from, National Institute of Technology Tiruchirappalli
+-He has done his M. Tech. (Cyber Security), Amrita Vishwa Vidyapeetham, Coimbatore and B.Tech. (CSE), Nehru College of Engineering and Research Centre, Calicut.
+
+Over to you sir.
+
+----
+
+Thank you sir, for that wonderful talk.
+...
+...
+...
+
+---
+
