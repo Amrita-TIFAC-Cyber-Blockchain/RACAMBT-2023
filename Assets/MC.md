@@ -20,7 +20,7 @@ Before we start the session, here are certain guidelines to be followed.
 - All are requested to kindly keep your microphones muted throughout the session
 - The video cameras can also be turned off
 - In necessary cases of interacting with the session resource person, only then it is required to unmute your mic and turn on the video feed.
-- Questions can be posted through the chat option available in MS Teams.
+- Questions can be posted through the Q and A option that has been enabled in MS Teams.
 
 Now we call upon Dr. Prashanth R Nair, Coordinator of this FDP, Vice-Chairman of IQAC, Associate Prof., Dept. of Computer Science, to share a few words about the faculty development program and set the context for the benefit of all participants.
 
