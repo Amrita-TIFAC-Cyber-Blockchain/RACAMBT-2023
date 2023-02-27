@@ -14,3 +14,7 @@ Prime Minister's Research Fellow.
 - Worked as a Research Intern in DELL-RSA for developing API Framework for RSA Archer Elastic Search Engine (2018-19)
 - Worked as Intern in Yazali Farmers Producer Company(FPO); which mainly working inorder to make agriculture profitable in villages using advanced technology, 
  there by supporting sustainable economy with high happiness index and creating self sustained and self reliant villages (April-July, 2019)
+ 
+ <p align="center">
+  <img src="https://i.seadn.io/gcs/files/e3b83e60fdb95354a19a8e41c76e0aaf.png?auto=format&w=1000" width="400"/>
+ </p>
