@@ -12,3 +12,10 @@
 - M. Tech. (Cyber Security) - 2009, Amrita University, Ettimadai, Coimbatore
 - B.Tech. (CSE) - 2006, Nehru College of Engineering and Research Centre, Calicut University
 - Currently working as a research associate in Amrita Vishwa Vidyapeetham
+
+
+ <p align="center">
+  <img src="https://i.seadn.io/gcs/files/4505729603c1175c463de22025454acc.png?auto=format&w=1000" width="400"/>
+ </p>
+
+
