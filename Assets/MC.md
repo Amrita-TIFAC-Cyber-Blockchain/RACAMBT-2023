@@ -77,6 +77,10 @@ Thank you sir, for didactical talk.
 ...
 We would now like to offer a virtual memento as a token of our gratitude to our session resource person, Mr. Vasudevan AR, for his valuable time. This virtual memento is issued as a Non-Fungible Token in opensea.io
 
+Thank you.
+
+Today the session covered topic on application of machine leanring in cyber security. Tomorrow, we will get into the world of blockchain and cryptocurrency.
+
 Sunsets are proofs that endings can be beautiful.
 The end of one chapter marks the beginning of another.
 Read on because there is something enticing in every chapter. As we conclude our today's session let's pin up in our minds Colombus's words....
