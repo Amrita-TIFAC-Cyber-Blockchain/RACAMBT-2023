@@ -8,16 +8,16 @@
 
 A very pleasant evening to one and all present here.
 We cordially welcome all of you to the AICTE-ATAL sponsored Two-week Hybrid Faculty Development Program on "Recent Advances and challenges in Artificial Intelligence, Machine Learning and Blockchain Technology" 2023.
-I am Aishwarya GS , I am Harshitha Ranjith, And we are from 2nd year B.Tech. Cyber Security. We will be the hosts for this year's FDP. 
+I am Aishwarya GS , I am Harshitha Ranjith, And we are from 2nd year B.Tech. Cyber Security. We will be the hosts for the online sessions of FDP. 
 
 Let us all start the session with a Prayer song.
 
 [Amrita Prayer Song](https://youtu.be/LOWd3ZSBJoA)
 
-This FDP is a Two-week Hybrid session where there are sessions held online as well as offline. The sessions from 27th February to 4th march will be held online and the sessions held from 6th march to 10th march will be held offline in Amrita Vishwa Vidyapeetham, Coimbatore campus.
+This FDP is a Two-week Hybrid session where there are sessions held online as well as offline. The sessions from 27th February to 4th march will be held online while the offline sessions will be held from 6th march to 10th march at Amrita Vishwa Vidyapeetham, Coimbatore campus.
 
 Before we start the session, here are certain guidelines to be followed.
-- All are requested to kindly keep your microphone muted throughout the session
+- All are requested to kindly keep your microphones muted throughout the session
 - The video cameras can also be turned off
 - In necessary cases of interacting with the session resource person, only then it is required to unmute your mic and turn on the video feed.
 - Questions can be posted through the chat option available in MS Teams.
@@ -36,8 +36,8 @@ With that note, I call upon our first speaker for the online sessions, **Mr Venk
 
 Mr. Venkata Sai Charan Putrevu
 - is a Programmer & Technology enthusiast, and is currently pursuing his Doctoral Research in Computer Science & Engineering, at IIT Kanpur as a Prime Minister’s Research Fellow.
-- Mr. Venkata Sai Charan has also completed his M.Tech in Cyber Security from our centre in the year 2019, during which he worked as a Research Intern in DELL-RSA for developing API Framework for RSA Archer Elastic Search Engine
-- He has Worked in CISCO N7k Team as a Software Developer and also as Intern in Yazali Farmers Producer Company(FPO); which is mainly working in order to make agriculture profitable in villages using advanced technology,  there by supporting sustainable economy with high happiness index and creating self sustained and self reliant villages.
+- Mr. Venkata Sai Charan has also completed his M.Tech in Cyber Security from our centre in the year 2019, during which he worked as a Research Intern in DELL-RSA for developing API Framework for Archer Elastic Search Engine
+- He has Worked in CISCO N7k Team as a Software Developer and also as Intern in Yajali Farmers Producer Company(FPO); which is mainly working in order to make agriculture profitable in villages using advanced technology,  there by supporting sustainable economy with high happiness index and creating self sustained and self reliant villages.
 
 Over to you, sir.
 
@@ -55,10 +55,10 @@ As a token of our love and gratitude, we would like to offer a virtual memento t
 
 Thank you.
 
-Now, I would like to request all participants to join the second link after a 10-minute break for our next session.
+Now, I would like to request all participants to join the second session now.
 
 ### Session 1-II
-We welcome all of you back for our next session.
+We will now resume with the session.
 
 We have amongst us, **Dr. Vasudevan AR**, for his lecture on the topic **"Machine Learning and Intrusion Detection System".**
 
@@ -71,10 +71,17 @@ Over to you sir.
 
 ----
 
-Thank you sir, for that wonderful talk.
+Thank you sir, for didactical talk.
 ...
 ...
 ...
-
+Sunsets are proofs that endings can be beautiful.
+The end of one chapter marks the beginning of another.
+Read on because there is something enticing in every chapter. As we conclude our today's session let's pin up in our minds Colombus's words....
+"You can never cross the ocean unless you have the courage to lose sight of  the shore."
+Let's keep our minds motivated and souls passionate...
+Thanking each and everyone of you !!
+Goodnight!
 ---
+
 
