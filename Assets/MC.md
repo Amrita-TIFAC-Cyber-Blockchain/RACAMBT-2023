@@ -90,4 +90,63 @@ Thanking each and everyone of you !!
 Goodnight!
 
 
+## Day 02
 
+Wishing all of you a very good evening.
+Welcome everyone, to day 2 of the AICTE-ATAL sponsored Two-week Hybrid Faculty Development Program on "Recent Advances and challenges in Artificial Intelligence, Machine Learning and Blockchain Technology" 2023. 
+
+Let us all start the session with a Prayer song.
+
+[Amrita Prayer Song](https://youtu.be/LOWd3ZSBJoA)
+
+As mentioned yesterday, all are requested to follow the meeting guidlines to ensure a smooth progress of the session.
+- All are requested to kindly keep your microphones muted throughout the session
+- The video cameras can also be turned off
+- In necessary cases of interacting with the session resource person, only then it is required to unmute your mic and turn on the video feed.
+- Questions can be posted through the Q and A option that has been enabled in MS Teams.
+
+### Session 2-I
+
+Without delaying further, we have amongst us our first speaker for the evening, **Prof. Avishek Adhikari** who will be presenting his talk on the topic **"Public Key Cryptography and its Application in Blockchain Technology".**
+
+- Professor Avishek Adhikari is a M.Sc. (Gold Medalist) and a recipient of the President of India Medal, ISCA Young Scientist Award.
+- He is Currently working as Professor and HOD in Department of Mathematics, Presidency University, Kolkata.
+- He has published more than 60 research articles in reputed international journals, conference proceedings and contributed volumes.
+- His research interest includes Applications of Algebra, Graph Theory, Cryptography, Cryptanalysis of Stream and Block Ciphers, Secret Sharing, DNA Cryptography, Visual Cryptography, Image Encryption, Wireless Sensor Networks.
+
+Over to you, sir.
+
+---
+
+Thank you sir, for the very educative talk.
+
+...
+...
+...
+
+
+
+As a token of our love and gratitude, we would like to offer a virtual memento to our session resource person, Prof. Avishek Adhikari, for his valuable time. The virtual memento is issued as a Non-Fungible Token in opensea.io
+
+Thank you.
+
+Now, I would like to request all participants to join the second session.
+
+### Session 2-II
+We will now resume with the session.
+
+Our second speaker, **Ms. Gandavaram Anuhuya**, for his lecture on the topic **"Blockchain Technology and Cryptocurrency (D)".**
+
+
+
+Over to you ma'am.
+
+----
+
+Thank you very much for that insightful talk.
+...
+...
+...
+We would now like to offer a virtual memento as a token of our gratitude to our session resource person, Ms. Gandavaram Anuhuya, for his valuable time. This virtual memento is issued as a Non-Fungible Token in opensea.io
+
+Thank you.
