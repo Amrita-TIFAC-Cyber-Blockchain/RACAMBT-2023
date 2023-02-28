@@ -118,7 +118,7 @@ Over to you, sir.
 
 ---
 
-Thank you sir, for the very educative talk.
+Thank you sir, for the very very pragmatic talk.
 
 ...
 ...
@@ -135,10 +135,12 @@ Now, I would like to request all participants to join the second session.
 ### Session 2-II
 We will now resume with the session.
 
-Our second speaker, **Ms. Gandavaram Anuhuya**, for her lecture on the topic **"Blockchain Technology and Cryptocurrency (D)".**
+I welcome our second speaker, **Ms. Gandavaram Anuhuya**, for her lecture on the topic **"Blockchain Technology and Cryptocurrency (D)".**
 
-- Ms. Anuhuya  is currently working as a Blockchain Developer at Param Networks, Bengaluru.
-- She has done her M. Tech Cyber Security in Amrita Vishwa Vidyapeetham
+- Ms. Anuhuya  s currently working as a Blockchain Developer at Param Networks, Bengaluru.
+- She has done her M.Tech Cyber Security in Amrita Vishwa Vidyapeetham and B.Tech in Computer Science from Sri Venkadeswara College of Engineering.
+- Prior to joining masters, she has an industry experience of around 2 years with Network Test Automation at Dell Technologies, Chennai.
+- Her areas of interests are Blockchain and Cryptocurrency Forensics, Cyber Psychology, and Computer Networks.
 
 Over to you ma'am.
 
@@ -150,4 +152,9 @@ Thank you very much ma'am for that insightful talk.
 ...
 We would now like to offer a virtual memento as a token of our gratitude to our session resource person, Ms. Gandavaram Anuhuya, for his valuable time. This virtual memento is issued as a Non-Fungible Token in opensea.io
 
-Thank you.
+Today the session covered topics on blockchain and cryptocurrency. Tomorrow, we will get into the topics of Artificial Intelligence and Deep Learning.
+
+To end this night, let's leave with a quote by Whitefield Diffie, "Lots of people working i cryptography have no deep concern with real applications issues. They are trying to discover things clever enough to write papers about."
+
+Thanking each and everyone of you !!
+Goodnight!
