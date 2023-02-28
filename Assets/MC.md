@@ -135,7 +135,7 @@ Now, I would like to request all participants to join the second session.
 ### Session 2-II
 We will now resume with the session.
 
-Our second speaker, **Ms. Gandavaram Anuhuya**, for his lecture on the topic **"Blockchain Technology and Cryptocurrency (D)".**
+Our second speaker, **Ms. Gandavaram Anuhuya**, for her lecture on the topic **"Blockchain Technology and Cryptocurrency (D)".**
 
 
 
@@ -143,7 +143,7 @@ Over to you ma'am.
 
 ----
 
-Thank you very much for that insightful talk.
+Thank you very much ma'am for that insightful talk.
 ...
 ...
 ...
