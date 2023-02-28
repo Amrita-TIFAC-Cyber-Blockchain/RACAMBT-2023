@@ -137,7 +137,8 @@ We will now resume with the session.
 
 Our second speaker, **Ms. Gandavaram Anuhuya**, for her lecture on the topic **"Blockchain Technology and Cryptocurrency (D)".**
 
-
+- Ms. Anuhuya  is currently working as a Blockchain Developer at Param Networks, Bengaluru.
+- She has done her M. Tech Cyber Security in Amrita Vishwa Vidyapeetham
 
 Over to you ma'am.
 
