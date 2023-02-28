@@ -150,11 +150,11 @@ Thank you very much ma'am for that insightful talk.
 ...
 ...
 ...
-We would now like to offer a virtual memento as a token of our gratitude to our session resource person, Ms. Gandavaram Anuhuya, for his valuable time. This virtual memento is issued as a Non-Fungible Token in opensea.io
+We would now like to offer a virtual memento as a token of our gratitude to our session resource person, Ms. Gandavaram Anuhuya, for her valuable time. This virtual memento is issued as a Non-Fungible Token in opensea.io
 
 Today the session covered topics on blockchain and cryptocurrency. Tomorrow, we will get into the topics of Artificial Intelligence and Deep Learning.
 
-To end this night, let's leave with a quote by Whitefield Diffie, "Lots of people working i cryptography have no deep concern with real applications issues. They are trying to discover things clever enough to write papers about."
+To end this night, let's leave with a quote by Whitefield Diffie, "Lots of people working in cryptography have no deep concern with real applications issues. They are trying to discover things clever enough to write papers about."
 
 Thanking each and everyone of you !!
 Goodnight!
