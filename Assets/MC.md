@@ -205,11 +205,11 @@ We will now resume with the session.
 
 I welcome our second speaker, **Dr. Sivagami R**, for her lecture on the topic **"A Deep Dive into Convolutional and Recurrent Neural Networks in Deep Learning".**
 
--She has One year experience as an Assistant Professor in Dhanalakshmi Srinivasan college of Engineering Perambalur.
--0ne Year experience as Lecturer in Srinivasan Polytechnic college Perambalur.
--Worked as a Junior Research Fellowship in a funded project sanctioned by ERIPR-DRDO for a period of Three years and successfully 
+- She has One year experience as an Assistant Professor in Dhanalakshmi Srinivasan college of Engineering Perambalur.
+- 0ne Year experience as Lecturer in Srinivasan Polytechnic college Perambalur.
+- Worked as a Junior Research Fellowship in a funded project sanctioned by ERIPR-DRDO for a period of Three years and successfully 
 conducted experiments on semantic segmentation for remote sensing image using Deep Learning model.
--Areas of interest are in Digital Image processing,Machine learning and Deep learning, and Soft Computing.
+- Areas of interest are in Digital Image processing,Machine learning and Deep learning, and Soft Computing.
 
 Over to you ma'am.
 
