@@ -168,11 +168,7 @@ Let us all start the session with a Prayer song.
 
 [Amrita Prayer Song](https://youtu.be/LOWd3ZSBJoA)
 
-The following guidelines are to ensure smooth progress of the online session.
-- All are requested to kindly keep your microphones muted throughout the session
-- The video cameras can also be turned off
-- In necessary cases of interacting with the session resource person, only then it is required to unmute your mic and turn on the video feed.
-- Questions can be posted through the Q and A option that has been enabled in MS Teams.
+The meeting guidelines remain the same as before. Please adhere the same to ensure smooth progress of the online session.
 
 ### Session 3-I
 
