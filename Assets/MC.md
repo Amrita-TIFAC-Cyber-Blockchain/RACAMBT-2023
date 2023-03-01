@@ -158,3 +158,72 @@ To end this night, let's leave with a quote by Whitefield Diffie, "Lots of peopl
 
 Thanking each and everyone of you !!
 Goodnight!
+
+## Day 03
+
+Good evening one and all present here.
+This is day 03 of the AICTE-ATAL sponsored Two-week Hybrid Faculty Development Program on "Recent Advances and challenges in Artificial Intelligence, Machine Learning and Blockchain Technology" 2023. 
+
+Let us all start the session with a Prayer song.
+
+[Amrita Prayer Song](https://youtu.be/LOWd3ZSBJoA)
+
+The following guidelines are to ensure smooth progress of the online session.
+- All are requested to kindly keep your microphones muted throughout the session
+- The video cameras can also be turned off
+- In necessary cases of interacting with the session resource person, only then it is required to unmute your mic and turn on the video feed.
+- Questions can be posted through the Q and A option that has been enabled in MS Teams.
+
+### Session 3-I
+
+Our first speaker for the evening, **Vasily Sachnev** who will be presenting his talk on the topic **"A New Approach for JPEG Steganalysis with a Cognitive Evolving Ensembler and Robust Feature Selection".**
+
+- Currently working as Associate Professor at The Catholic University of Korea
+- He has done his PhD. in Computer and Information Systems security in the year 2009 from Korea University.
+- He has published over 30 research articles in various reputed international journals and has an experience of 12 years in serving the academia.
+- His areas of interests inlcude: Computer security and reliability, Artificial Neural Network, and Artificial Intelligence.
+Over to you, sir.
+
+---
+
+Thank you sir, for the very interesting and infromative talk.
+
+...
+...
+...
+
+
+
+As a token of our love and gratitude, we would like to offer a virtual memento to our session resource person, Dr. Vasily Sachnev, for his valuable time. The virtual memento is issued as a Non-Fungible Token in opensea.io
+
+Thank you.
+
+Requesting all participant to join the second session.
+
+### Session 3-II
+We will now resume with the session.
+
+I welcome our second speaker, **Dr. Sivagami R**, for her lecture on the topic **"A Deep Dive into Convolutional and Recurrent Neural Networks in Deep Learning".**
+
+- 
+
+Over to you ma'am.
+
+----
+
+Thank you very much ma'am for that insightful talk.
+...
+...
+...
+We would now like to offer a virtual memento as a token of our gratitude to our session resource person, Dr. Sivagami R, for her valuable time. This virtual memento is issued as a Non-Fungible Token in opensea.io
+
+Today the session covered topics on Artificial Intelligence and Deep Learning. Tomorrow, the discussion will be on wireless security..
+
+To end this night, let's leave with a quote by Alan Turing, "A computer would deserve to be called intellegent if it could decieve a human into believing that it was human"
+
+Thanking each and everyone of you !!
+Goodnight!
+
+
+Thanking each and everyone of you !!
+Goodnight!
