@@ -172,9 +172,9 @@ The meeting guidelines remain the same as before. Please adhere the same to ensu
 
 ### Session 3-I
 
-Our first speaker for the evening, **Dr. Vasily Sachnev** who will be presenting his talk on the topic **"A New Approach for JPEG Steganalysis with a Cognitive Evolving Ensembler and Robust Feature Selection".**
+Our first speaker for the evening, **Dr. Vasily Sachnev** will be presenting his talk on the topic **"A New Approach for JPEG Steganalysis with a Cognitive Evolving Ensembler and Robust Feature Selection".**
 
-- Dr. VAsily is currently working as Associate Professor at The Catholic University of Korea
+- Dr. Vasily is currently working as Associate Professor at The Catholic University of Korea
 - He has done his PhD. in Computer and Information Systems security in the year 2009 from Korea University.
 - He has published over 30 research articles in various reputed international journals and has an experience of 12 years in serving the academia.
 - His areas of interests inlcude: Computer security and reliability, Artificial Neural Network, and Artificial Intelligence.
