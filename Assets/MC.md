@@ -225,3 +225,69 @@ Thanking each and everyone of you !!
 Goodnight!
 
 
+## Day 04
+
+Good evening one and all present here.
+This is day 04 of the AICTE-ATAL sponsored Two-week Hybrid Faculty Development Program on "Recent Advances and challenges in Artificial Intelligence, Machine Learning and Blockchain Technology" 2023. 
+
+Let us all start the session with a Prayer song.
+
+[Amrita Prayer Song](https://youtu.be/LOWd3ZSBJoA)
+
+The meeting guidelines remain the same as before. Please adhere the same to ensure smooth progress of the online session.
+
+### Session 4-I
+
+Our first speaker for the evening, **Dr. Vasily Sachnev** will be presenting his talk on the topic **"A New Approach for JPEG Steganalysis with a Cognitive Evolving Ensembler and Robust Feature Selection".**
+
+- Dr. Vasily is currently working as Associate Professor at The Catholic University of Korea
+- He has done his PhD. in Computer and Information Systems security in the year 2009 from Korea University.
+- He has published over 30 research articles in various reputed international journals and has an experience of 12 years in serving the academia.
+- His areas of interests inlcude: Computer security and reliability, Artificial Neural Network, and Artificial Intelligence.
+Over to you, sir.
+
+---
+
+Thank you sir, for the very interesting and infromative talk.
+
+...
+...
+...
+
+
+
+As a token of our love and gratitude, we would like to offer a virtual memento to our session resource person, Dr. Vasily Sachnev, for his valuable time. The virtual memento is issued as a Non-Fungible Token in opensea.io
+
+Thank you.
+
+Requesting all participant to join the second session.
+
+### Session 3-II
+We will now resume with the session.
+
+I welcome our second speaker, **Dr. Sivagami R**, for her lecture on the topic **"A Deep Dive into Convolutional and Recurrent Neural Networks in Deep Learning".**
+
+- She has One year experience as an Assistant Professor in Dhanalakshmi Srinivasan college of Engineering Perambalur.
+- 0ne Year experience as Lecturer in Srinivasan Polytechnic college Perambalur.
+- Worked as a Junior Research Fellowship in a funded project sanctioned by ERIPR-DRDO for a period of Three years and successfully 
+conducted experiments on semantic segmentation for remote sensing image using Deep Learning model.
+- Areas of interest are in Digital Image processing,Machine learning and Deep learning, and Soft Computing.
+
+Over to you ma'am.
+
+----
+
+Thank you very much ma'am for that insightful talk.
+...
+...
+...
+We would now like to offer a virtual memento as a token of our gratitude to our session resource person, Dr. Sivagami R, for her valuable time. This virtual memento is issued as a Non-Fungible Token in opensea.io
+
+Today the session covered topics on Artificial Intelligence and Deep Learning. Tomorrow, the discussion will be on wireless security..
+
+To end this night, let's leave with a quote by Alan Turing, "A computer would deserve to be called intellegent if it could decieve a human into believing that it was human"
+
+Thanking each and everyone of you !!
+Goodnight!
+
+
