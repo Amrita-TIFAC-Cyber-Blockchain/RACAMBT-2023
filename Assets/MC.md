@@ -240,8 +240,13 @@ The meeting guidelines remain the same as before. Please adhere the same to ensu
 
 Our first speaker for the evening, **Dr. Mayank Agarwal** will be presenting his talk on the topic **"802.11 Wireless Vulnerabilities, Concepts and Exploits."**
 
-- Dr. Mayank Agarwal is currently working as Assistant Professor in the Department of CSE at Indian Institute of Technology Patna.
-- Post doctrate at Ben Gurion University of Negev, Israel.
+- Dr. Mayank Agarwal is currently working as Assistant Professor in the Department of CSE at Indian Institute of Technology Patna, before which he was working at Sardar Patel Institute of technology.
+- He has recieved his PhD from IIT Guwahati specializing in Wi-Fi Network security, and then his Post doctrate at Ben Gurion University of Negev, Israel.
+- Dr. Mayank has been awarded TCS Research Fellowship in the year 2011, from Tata Consultancy Services
+- He is the first Btech-PhD student from IIT Guwahati to get this scholarships.
+- He has published many research papers in various reputed journals.
+- His areas of interests include: 802.11 Wireless Network, Wi-Fi Security, and Discrete Event Modelling.
+
 Over to you, sir.
 
 ---
@@ -256,7 +261,7 @@ As a token of our love and gratitude, we would like to offer a virtual memento t
 Thank you.
 
 
-Today the session covered topics on wireless security. Tomorrow, the discussion will be on Blockchain Implementations in IoT for Supply Chain Management.
+Today the session covered topics on Wireless Security. Tomorrow, the discussion will be on Blockchain Implementations in IoT for Supply Chain Management.
 
 To end this night, let's leave with a quote by 
 
