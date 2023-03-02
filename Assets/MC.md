@@ -238,7 +238,7 @@ The meeting guidelines remain the same as before. Please adhere the same to ensu
 
 ### Session 4-I
 
-Our first speaker for the evening, **Dr. Mayank Agarwal** will be presenting his talk on the topic **"A New Approach for JPEG Steganalysis with a Cognitive Evolving Ensembler and Robust Feature Selection".**
+Our first speaker for the evening, **Dr. Mayank Agarwal** will be presenting his talk on the topic **"802.11 Wireless Vulnerabilities, Concepts and Exploits."**
 
 - Dr. Mayank Agarwal is currently working as Assistant Professor in the Department of CSE at Indian Institute of Technology Patna.
 - Post doctrate at Ben Gurion University of Negev, Israel.
@@ -258,7 +258,7 @@ Thank you.
 
 Today the session covered topics on wireless security. Tomorrow, the discussion will be on Blockchain Implementations in IoT for Supply Chain Management.
 
-To end this night, let's leave with a quote by Alan Turing, "A computer would deserve to be called intellegent if it could decieve a human into believing that it was human"
+To end this night, let's leave with a quote by 
 
 Thanking each and everyone of you !!
 Goodnight!
