@@ -261,9 +261,9 @@ As a token of our love and gratitude, we would like to offer a virtual memento t
 Thank you.
 
 
-Today the session covered topics on Wireless Security. Tomorrow, the discussion will be on Blockchain Implementations in IoT for Supply Chain Management.
+Today the session covered the topic of 802.11 Wireless Vulnerabilities, Concepts and Exploits. Tomorrow, the discussion will be on Blockchain Implementations in IoT for Supply Chain Management.
 
-To end this night, let's leave with a quote by 
+To end this night, let's leave with a quote, "Wireless Security is like a chain, it's only as strong as the weakest link."
 
 Thanking each and everyone of you !!
 Goodnight!
