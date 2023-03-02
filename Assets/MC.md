@@ -238,12 +238,10 @@ The meeting guidelines remain the same as before. Please adhere the same to ensu
 
 ### Session 4-I
 
-Our first speaker for the evening, **Dr. Vasily Sachnev** will be presenting his talk on the topic **"A New Approach for JPEG Steganalysis with a Cognitive Evolving Ensembler and Robust Feature Selection".**
+Our first speaker for the evening, **Dr. Mayank Agarwal** will be presenting his talk on the topic **"A New Approach for JPEG Steganalysis with a Cognitive Evolving Ensembler and Robust Feature Selection".**
 
-- Dr. Vasily is currently working as Associate Professor at The Catholic University of Korea
-- He has done his PhD. in Computer and Information Systems security in the year 2009 from Korea University.
-- He has published over 30 research articles in various reputed international journals and has an experience of 12 years in serving the academia.
-- His areas of interests inlcude: Computer security and reliability, Artificial Neural Network, and Artificial Intelligence.
+- Dr. Mayank Agarwal is currently working as Assistant Professor in the Department of CSE at Indian Institute of Technology Patna.
+- Post doctrate at Ben Gurion University of Negev, Israel.
 Over to you, sir.
 
 ---
@@ -253,37 +251,12 @@ Thank you sir, for the very interesting and infromative talk.
 ...
 ...
 ...
-
-
-
-As a token of our love and gratitude, we would like to offer a virtual memento to our session resource person, Dr. Vasily Sachnev, for his valuable time. The virtual memento is issued as a Non-Fungible Token in opensea.io
+As a token of our love and gratitude, we would like to offer a virtual memento to our session resource person, Dr. Mayank Agarwal, for his valuable time. The virtual memento is issued as a Non-Fungible Token in opensea.io
 
 Thank you.
 
-Requesting all participant to join the second session.
 
-### Session 3-II
-We will now resume with the session.
-
-I welcome our second speaker, **Dr. Sivagami R**, for her lecture on the topic **"A Deep Dive into Convolutional and Recurrent Neural Networks in Deep Learning".**
-
-- She has One year experience as an Assistant Professor in Dhanalakshmi Srinivasan college of Engineering Perambalur.
-- 0ne Year experience as Lecturer in Srinivasan Polytechnic college Perambalur.
-- Worked as a Junior Research Fellowship in a funded project sanctioned by ERIPR-DRDO for a period of Three years and successfully 
-conducted experiments on semantic segmentation for remote sensing image using Deep Learning model.
-- Areas of interest are in Digital Image processing,Machine learning and Deep learning, and Soft Computing.
-
-Over to you ma'am.
-
-----
-
-Thank you very much ma'am for that insightful talk.
-...
-...
-...
-We would now like to offer a virtual memento as a token of our gratitude to our session resource person, Dr. Sivagami R, for her valuable time. This virtual memento is issued as a Non-Fungible Token in opensea.io
-
-Today the session covered topics on Artificial Intelligence and Deep Learning. Tomorrow, the discussion will be on wireless security..
+Today the session covered topics on wireless security. Tomorrow, the discussion will be on Blockchain Implementations in IoT for Supply Chain Management.
 
 To end this night, let's leave with a quote by Alan Turing, "A computer would deserve to be called intellegent if it could decieve a human into believing that it was human"
 
