@@ -281,7 +281,7 @@ The meeting guidlines have been set to make sure the session progresses smoothly
 
 ### Session 5-I
 
-We have with us, our speaker for this evening, **Prof. Jubilant J Kizhakkethottam**, who will be giving his talk on the topic **"Blockchain Implementations in IoT for Supply Chain Management."**
+We have with us, our speaker for this evening, **Prof. Jubilant J Kizhakkethottam**, who will be giving his lecture on **"Blockchain forensics and implementation in IoT supply chain"**
 
 - Prof. Jubilant is currently working as a professor in Saintgits college of engineering, Kottayam.
 - He is the lead in the Blockchain Lab.
