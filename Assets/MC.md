@@ -305,7 +305,7 @@ Thank you.
 
 Today the session covered the topic of Blockchain Implementations in IoT for Supply Chain Management. Tomorrow, the discussion will be on Natural Language Processing for Improving Public Health.
 
-To end this night, let's leave with a quote, "Wireless Security is like a chain, it's only as strong as the weakest link."
+To end this night, let's leave with a quote, "Cyber forensics is not just about finding evidences of wrongdoing but also about understanding the nature of the attack and how to prevent it from happening again." - Mary Aiken
 
 Thanking each and everyone of you !!
 Goodnight!
