@@ -269,3 +269,45 @@ Thanking each and everyone of you !!
 Goodnight!
 
 
+## Day 05
+
+Good evening one and all and welcome to day 5 of the AICTE-ATAL sponsored Two-week Hybrid Faculty Development Program on "Recent Advances and challenges in Artificial Intelligence, Machine Learning and Blockchain Technology" 2023. 
+
+Let us all start the session with a Prayer song.
+
+[Amrita Prayer Song](https://youtu.be/LOWd3ZSBJoA)
+
+The meeting guidlines have been set to make sure the session progresses smoothly, and are the same as menioned previously. Please follow the same.
+
+### Session 5-I
+
+We have with us, our speaker for this evening, **Prof. Jubilant J Kizhakkethottam**, who will be giving his talk on the topic **"Blockchain Implementations in IoT for Supply Chain Management."**
+
+- Prof. Jubilant is currently working as a professor in Saintgits college of engineering, Kottayam.
+- He is the lead in the Blockchain Lab.
+He has done his M.Tech Computer Science and Engineering from VTU, Belgam, Master of Business Administration from M G University, and MSc Psychology from Bharithiyar University.
+- He holds a PG Diploma in Cyber Law from Mumbai Law University.
+- Prof. Jubliant has done his PhD in CSE – Information & Communication Engineering from Anna University, Chennai.
+
+Over to you, sir.
+
+---
+
+Thank you sir, for the very didactful talk.
+
+...
+...
+...
+As a token of our love and gratitude, we would like to offer a virtual memento to our session resource person, Prof. Jubilant J Kizhakkethottam, for his valuable time. The virtual memento is issued as a Non-Fungible Token in opensea.io
+
+Thank you.
+
+
+Today the session covered the topic of Blockchain Implementations in IoT for Supply Chain Management. Tomorrow, the discussion will be on Natural Language Processing for Improving Public Health.
+
+To end this night, let's leave with a quote, "Wireless Security is like a chain, it's only as strong as the weakest link."
+
+Thanking each and everyone of you !!
+Goodnight!
+
+
