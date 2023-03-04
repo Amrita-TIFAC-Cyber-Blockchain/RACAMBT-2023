@@ -358,9 +358,11 @@ We will now resume with the session.
 
 I welcome our second speaker, **Mr. Aju Mathew Thomas**, for his lecture on the topic **"Decentralized Identifiers in Blockchain Technology"**
 
-- Currently working as a Cyber Security Consultant with EY-India, Banglore.
+- Currently working as a Cyber Security Consultant with Ernst-Young India, Banglore.
 - He did his M.Tech in the Department Of TIFAC-CORE in Cyber Security from Amrita Viswa Vidyapeetam,Coimbatore campus.
-- 
+- He did his B.tech in Electronics and Communication Engineering at Model engineering college.
+- He is a cyber security professional and a blockchain enthusiast.
+- He worked at Accenture for 3 years in Bengaluru as a software engineer.
 - In this role he is responsible for conducting Penetration Testing assessments on various applications and conducting red-teaming assessments.
 
 Over to you sir.
