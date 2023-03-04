@@ -315,7 +315,7 @@ Goodnight!
 ## Day 06
 
 Wishing all of you a very good evening.
-Welcome everyone, to day 2 of the AICTE-ATAL sponsored Two-week Hybrid Faculty Development Program on "Recent Advances and challenges in Artificial Intelligence, Machine Learning and Blockchain Technology" 2023. 
+Welcome everyone, to day 6 of the AICTE-ATAL sponsored Two-week Hybrid Faculty Development Program on "Recent Advances and challenges in Artificial Intelligence, Machine Learning and Blockchain Technology" 2023. 
 
 Let us all start the session with a Prayer song.
 
