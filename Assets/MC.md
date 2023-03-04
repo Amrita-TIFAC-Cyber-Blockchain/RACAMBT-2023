@@ -327,10 +327,13 @@ As mentioned yesterday, all are requested to follow the meeting guidlines to ens
 
 Without delaying further, we have amongst us our first speaker for the evening, **Dr. Anoop V S** who will be presenting his talk on the topic **"Natural Language Processing for Improving Public Health"**
 
-- Currently working as a research professor at the School of Digital Scieneces, Digital University of Kerala, Thiruvananthapuram.
-- PhD and M.Phil in Computer Science at Cochin University of Science and Technology (CUSAT).
-- Master of Computer Applications (MCA), Indira Gandhi National Open University, 2011.
-- Post Graduate Diploma in Higher Education (PGDHE), Indira Gandhi National Open University, 2014.
+- Dr. Anoop has completed his Doctor of Philosophy (Ph.D.) and Master of Philosophy (M.Phil.) from the Cochin University of Science and Technology.
+-  He completed his Integrated Masters of Computer Applications from the School of Computer and Information Sciences and a Post Graduate Diploma in Higher Education from the School of Education, IGNOU, New Delhi.
+-  Dr. Anoop is a Research Officer at the School of Digital Sciences, Kerala University of Digital Sciences, Innovation and Technology, Thiruvananthapuram. 
+-  Previously, he worked as a Postdoctoral Fellow with the Smith School of Business at Queen's University, Canada. 
+-  He has worked in various roles such as Research Scientist, Assistant Professor, Data Scientist, and Visiting Faculty. 
+-  Dr. Anoop's primary research interest is Applied Natural Language Processing. 
+-  He has several publications, including edited books, book chapters, articles in international journals, and conference proceedings.
 
 Over to you, sir.
 
