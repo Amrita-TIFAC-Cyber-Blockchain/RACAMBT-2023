@@ -375,9 +375,9 @@ Thank you very much sir for that insightful talk.
 ...
 We would now like to offer a virtual memento as a token of our gratitude to our session resource person, Mr. Aju Mathew Thomas, for his valuable time. This virtual memento is issued as a Non-Fungible Token in opensea.io
 
-Today the session covered topics on blockchain and cryptocurrency. Tomorrow, we will get into the topics of Artificial Intelligence and Deep Learning.
+Thank you, one and all, for your dedicated attendance in these online session. We are eagerly waiting for your presence for the offline sessions as well.
 
-To end this night, let's leave with a quote by Whitefield Diffie, "Lots of people working in cryptography have no deep concern with real applications issues. They are trying to discover things clever enough to write papers about."
+To end this night, let's leave with a quote by Brce Schneier, "Data is the pollution problem of the information age, and protecting privacy is the environmental challenge."
 
 Thanking each and everyone of you !!
 Goodnight!
