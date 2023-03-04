@@ -311,3 +311,68 @@ Thanking each and everyone of you !!
 Goodnight!
 
 
+
+## Day 06
+
+Wishing all of you a very good evening.
+Welcome everyone, to day 2 of the AICTE-ATAL sponsored Two-week Hybrid Faculty Development Program on "Recent Advances and challenges in Artificial Intelligence, Machine Learning and Blockchain Technology" 2023. 
+
+Let us all start the session with a Prayer song.
+
+[Amrita Prayer Song](https://youtu.be/LOWd3ZSBJoA)
+
+As mentioned yesterday, all are requested to follow the meeting guidlines to ensure a smooth progress of the session.
+
+### Session 6-I
+
+Without delaying further, we have amongst us our first speaker for the evening, **Dr. Anoop V S** who will be presenting his talk on the topic **"Natural Language Processing for Improving Public Health"**
+
+- Currently working as a research professor at the School of Digital Scieneces, Digital University of Kerala, Thiruvananthapuram.
+- PhD and M.Phil in Computer Science at Cochin University of Science and Technology (CUSAT).
+- Master of Computer Applications (MCA), Indira Gandhi National Open University, 2011.
+- Post Graduate Diploma in Higher Education (PGDHE), Indira Gandhi National Open University, 2014.
+
+Over to you, sir.
+
+---
+
+Thank you sir, for the very very pragmatic talk.
+
+...
+...
+...
+
+
+
+As a token of our love and gratitude, we would like to offer a virtual memento to our session resource person, Dr. Anoop V S, for his valuable time. The virtual memento is issued as a Non-Fungible Token in opensea.io
+
+Thank you.
+
+Now, I would like to request all participants to join the second session.
+
+### Session 6-II
+We will now resume with the session.
+
+I welcome our second speaker, **Mr. Aju Mathew Thomas**, for his lecture on the topic **"Decentralized Identifiers in Blockchain Technology"**
+
+- Currently working as a Cyber Security Consultant with EY-India, Banglore.
+- In this role he is responsible for conducting Penetration Testing assessments on various applications and conducting red-teaming assessments.
+
+Over to you sir.
+
+----
+
+Thank you very much sir for that insightful talk.
+...
+...
+...
+We would now like to offer a virtual memento as a token of our gratitude to our session resource person, Mr. Aju Mathew Thomas, for his valuable time. This virtual memento is issued as a Non-Fungible Token in opensea.io
+
+Today the session covered topics on blockchain and cryptocurrency. Tomorrow, we will get into the topics of Artificial Intelligence and Deep Learning.
+
+To end this night, let's leave with a quote by Whitefield Diffie, "Lots of people working in cryptography have no deep concern with real applications issues. They are trying to discover things clever enough to write papers about."
+
+Thanking each and everyone of you !!
+Goodnight!
+
+
