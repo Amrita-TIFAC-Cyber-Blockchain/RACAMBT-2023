@@ -437,33 +437,25 @@ Thank you.
 ### Session 1-II
 We will now resume with the session.
 
-We have amongst us, **Dr. Vasudevan AR**, for his lecture on the topic **"Machine Learning and Intrusion Detection System".**
+I welcome our second speaker, **Dr. Sivagami R**, for her lecture on the topic **"Image Analysis using Deep Learning Techniques (P)".**
 
-- Dr. Vasudevan AR, currently works as an Assistant Professor in NIT Calicut.
-- He has done his Doctor of Philosophy in Network Security - 2016, from, NIT Tiruchirappalli
-- He completed his M. Tech. (Cyber Security), Amrita Vishwa Vidyapeetham, Coimbatore in the year 2009 and B.Tech. (CSE), Nehru College of Engineering and Research Centre, Calicut.
-- His research areas include: computer networks, network security and Internet of things. He has published research articles in various reputed conferences and journals.
+- She has One year experience as an Assistant Professor in Dhanalakshmi Srinivasan college of Engineering Perambalur.
+- 0ne Year experience as Lecturer in Srinivasan Polytechnic college Perambalur.
+- Worked as a Junior Research Fellowship in a funded project sanctioned by ERIPR-DRDO for a period of Three years and successfully 
+conducted experiments on semantic segmentation for remote sensing image using Deep Learning model.
+- Areas of interest are in Digital Image processing,Machine learning and Deep learning, and Soft Computing.
 
-Over to you sir.
+Over to you ma'am.
 
 ----
 
-Thank you sir, for didactical talk.
+Thank you ma'am, for didactical talk.
 ...
 ...
 ...
-We would now like to offer a virtual memento as a token of our gratitude to our session resource person, Mr. Vasudevan AR, for his valuable time. This virtual memento is issued as a Non-Fungible Token in opensea.io
+We would now like to offer a virtual memento as a token of our gratitude to our session resource person, Dr. Sivagami R, for her valuable time. This virtual memento is issued as a Non-Fungible Token in opensea.io
 
 Thank you.
 
-Today the session covered topic on application of machine leanring in cyber security. Tomorrow, we will get into the world of blockchain and cryptocurrency.
-
-Sunsets are proofs that endings can be beautiful.
-The end of one chapter marks the beginning of another.
-Read on because there is something enticing in every chapter. As we conclude our today's session let's pin up in our minds Colombus's words....
-"You can never cross the ocean unless you have the courage to lose sight of  the shore."
-Let's keep our minds motivated and souls passionate...
-Thanking each and everyone of you !!
-Goodnight!
 
 
