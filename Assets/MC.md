@@ -435,9 +435,9 @@ As a token of our love and gratitude, we would like to offer a virtual memento t
 Thank you.
 
 ### Session 1-II
-We will now resume with the session.
+I welcome back everyone for the secnond sesion of the day.
 
-I welcome our second speaker, **Dr. Sivagami R**, for her lecture on the topic **"Image Analysis using Deep Learning Techniques (P)".**
+So with due respect i call upon, **Dr. Sivagami R**, for her lecture on the topic **"Image Analysis using Deep Learning Techniques (P)".**
 
 - She has One year experience as an Assistant Professor in Dhanalakshmi Srinivasan college of Engineering Perambalur.
 - 0ne Year experience as Lecturer in Srinivasan Polytechnic college Perambalur.
@@ -445,8 +445,7 @@ I welcome our second speaker, **Dr. Sivagami R**, for her lecture on the topic *
 conducted experiments on semantic segmentation for remote sensing image using Deep Learning model.
 - Areas of interest are in Digital Image processing,Machine learning and Deep learning, and Soft Computing.
 
-Over to you ma'am.
-
+welcome maam,over to you!
 ----
 
 Thank you ma'am, for didactical talk.
