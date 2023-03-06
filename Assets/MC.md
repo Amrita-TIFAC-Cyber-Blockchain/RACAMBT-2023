@@ -382,4 +382,90 @@ To end this night, let's leave with a quote by Brce Schneier, "Data is the pollu
 Thanking each and everyone of you !!
 Goodnight!
 
+## Offline
+
+## Day 07
+
+
+Good morning to everyone on and off the idas.
+We cordially welcome all of you to the offline sessions of the AICTE-ATAL sponsored Two-week Hybrid Faculty Development Program on "Recent Advances and challenges in Artificial Intelligence, Machine Learning and Blockchain Technology" 2023.
+I am Aishwarya GS , I am Harshitha Ranjith, And we are from 2nd year B.Tech. Cyber Security. We will be the hosts for today. 
+
+Let us all start the session with a Prayer song.
+
+Thank you.
+
+I once again welcome all dignitaries, speakers, participants and guests to day 07 of the Faculty Development Program, and the first offline session.
+
+Now I welcome Mr. Ramaguru Radhakrishnan, Assistant Professor, TIFAC-CORE CYber Security and the Co-coordinator of the event to share a few words on FDP and set the context for the benefit of all present here.
+
+Over to you sir.
+
+I call upon the , Prof. M Sethumadhavan, Center-head, TIFAC-CORE in Cyber Security and convenor RACAMBT 2023 to share a few words.
+
+Thank you sir.
+
+---
+
+Thank you, sir.
+
+### Session 1-I
+
+With that note, I call upon our first speaker for the online sessions, **Mr Maharaj M** to deliver his talk on the topic **Recent Challenges in Enterprise Blockchain Projects".**
+
+Mr. Maharaj M
+- is the Founder and CEO of BCBUZZ Technologies, specializing in Enterprise blockchain and cyber security.
+- He is alo a Blockchain and Information Technology consultant.
+- He has done his MBA, Project management form Barathiar University and BSc Computer Science from Karpagam Academy.
+
+Over to you, sir.
+
+---
+
+Thank you sir, for your very informative talk.
+
+...
+...
+...
+
+
+
+As a token of our love and gratitude, we would like to offer a virtual memento to our session resource person, Mr Venkata Sai Charan Putrevu, for his valuable time. The virtual memento is issued as a Non-Fungible Token in opensea.io
+
+Thank you.
+
+Now, I would like to request all participants to join the second session now.
+
+### Session 1-II
+We will now resume with the session.
+
+We have amongst us, **Dr. Vasudevan AR**, for his lecture on the topic **"Machine Learning and Intrusion Detection System".**
+
+- Dr. Vasudevan AR, currently works as an Assistant Professor in NIT Calicut.
+- He has done his Doctor of Philosophy in Network Security - 2016, from, NIT Tiruchirappalli
+- He completed his M. Tech. (Cyber Security), Amrita Vishwa Vidyapeetham, Coimbatore in the year 2009 and B.Tech. (CSE), Nehru College of Engineering and Research Centre, Calicut.
+- His research areas include: computer networks, network security and Internet of things. He has published research articles in various reputed conferences and journals.
+
+Over to you sir.
+
+----
+
+Thank you sir, for didactical talk.
+...
+...
+...
+We would now like to offer a virtual memento as a token of our gratitude to our session resource person, Mr. Vasudevan AR, for his valuable time. This virtual memento is issued as a Non-Fungible Token in opensea.io
+
+Thank you.
+
+Today the session covered topic on application of machine leanring in cyber security. Tomorrow, we will get into the world of blockchain and cryptocurrency.
+
+Sunsets are proofs that endings can be beautiful.
+The end of one chapter marks the beginning of another.
+Read on because there is something enticing in every chapter. As we conclude our today's session let's pin up in our minds Colombus's words....
+"You can never cross the ocean unless you have the courage to lose sight of  the shore."
+Let's keep our minds motivated and souls passionate...
+Thanking each and everyone of you !!
+Goodnight!
+
 
