@@ -435,7 +435,7 @@ As a token of our love and gratitude, we would like to offer a virtual memento t
 Thank you.
 
 ### Session 1-II
-I welcome back everyone for the secnond sesion of the day.
+I welcome back everyone for second session of the day.
 
 So with due respect i call upon, **Dr. Sivagami R**, for her lecture on the topic **"Image Analysis using Deep Learning Techniques (P)".**
 
