@@ -430,11 +430,9 @@ Thank you sir, for your very informative talk.
 
 
 
-As a token of our love and gratitude, we would like to offer a virtual memento to our session resource person, Mr Venkata Sai Charan Putrevu, for his valuable time. The virtual memento is issued as a Non-Fungible Token in opensea.io
+As a token of our love and gratitude, we would like to offer a virtual memento to our session resource person, Mr Maharaj M, for his valuable time. The virtual memento is issued as a Non-Fungible Token in opensea.io
 
 Thank you.
-
-Now, I would like to request all participants to join the second session now.
 
 ### Session 1-II
 We will now resume with the session.
