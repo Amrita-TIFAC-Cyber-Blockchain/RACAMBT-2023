@@ -458,3 +458,64 @@ Thank you.
 
 
 
+## Day 08
+
+
+Good morning to everyone on and off the idas.
+We cordially welcome all of you to the offline sessions of the AICTE-ATAL sponsored Two-week Hybrid Faculty Development Program on "Recent Advances and challenges in Artificial Intelligence, Machine Learning and Blockchain Technology" 2023.
+
+Let us all start the session with a Prayer song.
+
+Thank you.
+
+I once again welcome all the participants and guests to day 08 of the Faculty Development Program and the second offline session.
+
+### Session 1-I
+
+With that note, I call upon our first speaker for the online sessions, **Mr Ramaguru Radhakrishnan** to deliver his talk on the topic **"Smart contract implementation using solidity".**
+
+Mr. Ramaguru Radhakrishnan
+- He is a Blockchain and cyber security enthusiast.
+- He is the faculty co-ordinator of clubs like for WiCys amrita student chapter,Blockchain research interest group,Kolect club and Cyber reach.
+- He finished his Btech in IT from Kumaraguru school of technology,Coimbatore ,Mtech in Cyber Security at Amrita Viswa Vidyapeetam,Coimbatore and Currently persuing his Doctoral research in formal methods in Blockchain and working as Assistant professor in the Department of TIFAC-CORE in Cyber Security at Amrita Vishwa Vidyapeetam ,Coimbatore.
+
+Over to you, sir.
+
+---
+
+Thank you sir, for your very informative talk.
+
+...
+...
+...
+
+
+
+As a token of our love and gratitude, we would like to offer a virtual memento to our session resource person, Mr Maharaj M, for his valuable time. The virtual memento is issued as a Non-Fungible Token in opensea.io
+
+Thank you.
+
+### Session 1-II
+I welcome back everyone for second session of the day.
+
+So with due respect i call upon, **Dr. Sivagami R**, for her lecture on the topic **"Image Analysis using Deep Learning Techniques (P)".**
+
+- She has One year experience as an Assistant Professor in Dhanalakshmi Srinivasan college of Engineering Perambalur.
+- 0ne Year experience as Lecturer in Srinivasan Polytechnic college Perambalur.
+- Worked as a Junior Research Fellowship in a funded project sanctioned by ERIPR-DRDO for a period of Three years and successfully 
+conducted experiments on semantic segmentation for remote sensing image using Deep Learning model.
+- Areas of interest are in Digital Image processing,Machine learning and Deep learning, and Soft Computing.
+
+welcome maam,over to you!
+----
+
+Thank you ma'am, for didactical talk.
+...
+...
+...
+We would now like to offer a virtual memento as a token of our gratitude to our session resource person, Dr. Sivagami R, for her valuable time. This virtual memento is issued as a Non-Fungible Token in opensea.io
+
+Thank you.
+
+
+
