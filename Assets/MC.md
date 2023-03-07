@@ -498,22 +498,21 @@ Thank you.
 ### Session 1-II
 I welcome back everyone for second session of the day.
 
-So with due respect i call upon, **Dr. Sivagami R**, for her lecture on the topic **"Image Analysis using Deep Learning Techniques (P)".**
+So with due respect i call upon, **Mr. Vigneswaran R**, for his lecture on the topic **"Smart Contract Security Auditing".**
 
-- She has One year experience as an Assistant Professor in Dhanalakshmi Srinivasan college of Engineering Perambalur.
-- 0ne Year experience as Lecturer in Srinivasan Polytechnic college Perambalur.
-- Worked as a Junior Research Fellowship in a funded project sanctioned by ERIPR-DRDO for a period of Three years and successfully 
-conducted experiments on semantic segmentation for remote sensing image using Deep Learning model.
-- Areas of interest are in Digital Image processing,Machine learning and Deep learning, and Soft Computing.
+- Mr Vigneswaran is a researcher in cybersecurity and privacy research and innovation group, TCS, India.
+- His current research focuses on privacy and security aspects of permissioned blockchains.
+- He has completed his MCA degree from Bharathiar University, Coimbatore and completed over 18 years with TCS.
+- He has worked on domains like Indian Language computing, virtualization, network routers, and securing information on computing devices.
 
-welcome maam,over to you!
+welcome sir,over to you!
 ----
 
 Thank you ma'am, for didactical talk.
 ...
 ...
 ...
-We would now like to offer a virtual memento as a token of our gratitude to our session resource person, Dr. Sivagami R, for her valuable time. This virtual memento is issued as a Non-Fungible Token in opensea.io
+We would now like to offer a virtual memento as a token of our gratitude to our session resource person, Mr. Vigneswaran R, for his valuable time. This virtual memento is issued as a Non-Fungible Token in opensea.io
 
 Thank you.
 
