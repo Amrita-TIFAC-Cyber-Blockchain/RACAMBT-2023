@@ -470,7 +470,7 @@ Thank you.
 
 I once again welcome all the participants and guests to day 08 of the Faculty Development Program and the second offline session.
 
-### Session 1-I
+### Session 8-I
 
 With that note, I call upon our first speaker for the online sessions, **Mr Ramaguru Radhakrishnan** to deliver his talk on the topic **"Smart contract implementation using solidity".**
 
@@ -495,7 +495,67 @@ As a token of our love and gratitude, we would like to offer a virtual memento t
 
 Thank you.
 
-### Session 1-II
+### Session 8-II
+I welcome back everyone for second session of the day.
+
+So with due respect i call upon, **Mr. Vigneswaran R**, for his lecture on the topic **"Smart Contract Security Auditing".**
+
+- Mr Vigneswaran is a researcher in cybersecurity and privacy research and innovation group, TCS, India.
+- His current research focuses on privacy and security aspects of permissioned blockchains.
+- He has completed his MCA degree from Bharathiar University, Coimbatore and completed over 18 years with TCS.
+- He has worked on domains like Indian Language computing, virtualization, network routers, and securing information on computing devices.
+
+welcome sir,over to you!
+----
+
+Thank you ma'am, for didactical talk.
+...
+...
+...
+We would now like to offer a virtual memento as a token of our gratitude to our session resource person, Mr. Vigneswaran R, for his valuable time. This virtual memento is issued as a Non-Fungible Token in opensea.io
+
+Thank you.
+
+## Day 09
+
+
+Good morning to everyone on and off the idas.
+We cordially welcome all of you to the offline sessions of the AICTE-ATAL sponsored Two-week Hybrid Faculty Development Program on "Recent Advances and challenges in Artificial Intelligence, Machine Learning and Blockchain Technology" 2023.
+
+Let us all start the session with a Prayer song.
+
+Thank you.
+
+I once again welcome all the participants and guests to day 09 of the Faculty Development Program and the second offline session.
+
+### Session 9-I
+
+With that note, I call upon our first speaker for the online sessions, **Mr. Alex Neelankavil Devassy** to deliver his talk on the topic **"Blockchain Application Security".**
+
+Mr. Alex
+- is a Cyber Security consultant, having 4+ years of rich and insightful exposure in penetration testing.
+- He has a Security consultancy along conducing cyber security training.
+- he is Currently working as a security Consultanat at EY.
+- Mr Alex has done his Master of Science, Computer science with specialization in Cyber Security from Indian Insitute of Technology and Management- kerala (IIITM-K)
+and his Bsc Computer Science from ST Thomas College, Thrissur
+
+Over to you, sir.
+
+---
+
+Thank you sir, for your very informative talk.
+
+...
+...
+...
+
+
+
+As a token of our love and gratitude, we would like to offer a virtual memento to our session resource person, Mr Maharaj M, for his valuable time. The virtual memento is issued as a Non-Fungible Token in opensea.io
+
+Thank you.
+
+### Session 9-II
 I welcome back everyone for second session of the day.
 
 So with due respect i call upon, **Mr. Vigneswaran R**, for his lecture on the topic **"Smart Contract Security Auditing".**
