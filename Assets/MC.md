@@ -559,6 +559,7 @@ So with due respect i call upon, **Dr. Sangeetha V**, for her lecture on the top
 
 - Dr.Sangetha worked as Asst. Proffesor in Department of TIFAC-CORE in Cyber Security at Amrita Vishwa Vidyapeetham,Coimbatore.
 - She is currently working as  Asst. Professor at BITS Pilani - WILP Division, Bengaluru.
+- She has done her PhD in Design of Algoritms for path planning of unmanned ground vehicles in uncertain environments.
 
 welcome maam,over to you!
 ----
@@ -569,7 +570,7 @@ Thank you ma'am, for didactical talk.
 ...
 We would now like to offer a virtual memento as a token of our gratitude to our session resource person, Dr. Sangeetha V, for her valuable time. This virtual memento is issued as a Non-Fungible Token in opensea.io.
 
-we have come to the end of Day 8 of Faculty Development Program offline sessions.Thanking each and every one for patiently listening to today's classes.
+we have come to the end of Day 9 of Faculty Development Program offline sessions.Thanking each and every one for patiently listening to today's classes.
 Tomorrow morning session will be taken by Mr. Sivadanam Yaswanth Lingam, on the topic Implications of GDPR on Blockchain Technology and Afternoon session by Prof. Amit Agarwal, about Challenges in Adopting Blockchain Technology.
 
 Thank you.
