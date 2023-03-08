@@ -558,7 +558,7 @@ Thank you.
 ### Session 9-II
 I welcome back everyone for second session of the day.
 
-So with due respect i call upon, **Mr. Vigneswaran R**, for his lecture on the topic **"Smart Contract Security Auditing".**
+So with due respect i call upon, **Dr. Sangeetha V,**, for her lecture on the topic **"Securing AI Models: A Case Study on ChatGPT".**
 
 - Mr Vigneswaran is a researcher in cybersecurity and privacy research and innovation group, TCS, India.
 - His current research focuses on privacy and security aspects of permissioned blockchains.
