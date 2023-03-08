@@ -557,7 +557,8 @@ I welcome back everyone for second session of the day.
 
 So with due respect i call upon, **Dr. Sangeetha V**, for her lecture on the topic **"Securing AI Models: A Case Study on ChatGPT".**
 
-- Dr. Sangeetha V is currently working as  Asst. Professor at BITS Pilani - WILP Division, Bengaluru.
+- Dr.Sangetha worked as Asst. Proffesor in Department of TIFAC-CORE in Cyber Security at Amrita Vishwa Vidyapeetham,Coimbatore.
+- She is currently working as  Asst. Professor at BITS Pilani - WILP Division, Bengaluru.
 
 welcome maam,over to you!
 ----
