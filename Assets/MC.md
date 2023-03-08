@@ -558,14 +558,11 @@ Thank you.
 ### Session 9-II
 I welcome back everyone for second session of the day.
 
-So with due respect i call upon, **Dr. Sangeetha V,**, for her lecture on the topic **"Securing AI Models: A Case Study on ChatGPT".**
+So with due respect i call upon, **Dr. Sangeetha V**, for her lecture on the topic **"Securing AI Models: A Case Study on ChatGPT".**
 
-- Mr Vigneswaran is a researcher in cybersecurity and privacy research and innovation group, TCS, India.
-- His current research focuses on privacy and security aspects of permissioned blockchains.
-- He has completed his MCA degree from Bharathiar University, Coimbatore and completed over 18 years with TCS.
-- He has worked on domains like Indian Language computing, virtualization, network routers, and securing information on computing devices.
+- Dr. Sangeetha V is currently working as  Asst. Professor at BITS Pilani - WILP Division, Bengaluru.
 
-welcome sir,over to you!
+welcome maam,over to you!
 ----
 
 Thank you ma'am, for didactical talk.
