@@ -548,10 +548,7 @@ Thank you sir, for your very informative talk.
 ...
 ...
 ...
-
-
-
-As a token of our love and gratitude, we would like to offer a virtual memento to our session resource person, Mr Maharaj M, for his valuable time. The virtual memento is issued as a Non-Fungible Token in opensea.io
+As a token of our love and gratitude, we would like to offer a virtual memento to our session resource person, Mr. Alex Neelankavil Devassy, for his valuable time. The virtual memento is issued as a Non-Fungible Token in opensea.io
 
 Thank you.
 
@@ -569,7 +566,10 @@ Thank you ma'am, for didactical talk.
 ...
 ...
 ...
-We would now like to offer a virtual memento as a token of our gratitude to our session resource person, Mr. Vigneswaran R, for his valuable time. This virtual memento is issued as a Non-Fungible Token in opensea.io
+We would now like to offer a virtual memento as a token of our gratitude to our session resource person, Dr. Sangeetha V, for her valuable time. This virtual memento is issued as a Non-Fungible Token in opensea.io.
+
+we have come to the end of Day 8 of Faculty Development Program offline sessions.Thanking each and every one for patiently listening to today's classes.
+Tomorrow morning session will be taken by Mr. Sivadanam Yaswanth Lingam, on the topic Implications of GDPR on Blockchain Technology and Afternoon session by Prof. Amit Agarwal, about Challenges in Adopting Blockchain Technology.
 
 Thank you.
 
