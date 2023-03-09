@@ -586,7 +586,7 @@ Let us all start the session with a Prayer song.
 
 Thank you.
 
-I once again welcome all the participants and guests to day 10 of the Faculty Development Program and the second offline session.
+I once again welcome all the participants and guests to day 10 of the Faculty Development Program..
 
 ### Session 10-I
 
