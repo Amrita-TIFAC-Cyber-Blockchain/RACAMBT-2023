@@ -576,4 +576,62 @@ Tomorrow morning session will be taken by Mr. Sivadanam Yaswanth Lingam, on the 
 Thank you.
 
 
+## Day 10
+
+
+Good morning to everyone on and off the idas.
+We cordially welcome all of you to the offline sessions of the AICTE-ATAL sponsored Two-week Hybrid Faculty Development Program on "Recent Advances and challenges in Artificial Intelligence, Machine Learning and Blockchain Technology" 2023.
+
+Let us all start the session with a Prayer song.
+
+Thank you.
+
+I once again welcome all the participants and guests to day 10 of the Faculty Development Program and the second offline session.
+
+### Session 10-I
+
+With that note, I call upon our first speaker for the online sessions, **Mr. Sivadanam Yaswanth Lingam** to deliver his talk on the topic **"Implications of GDPR on Blockchain Technology".**
+
+- Mr. Sivadanam Yaswanth Lingam carries a deep passion and love for the cybersecurity space
+- He is working as a Cyber Security Analyst in Groww. He has extensive experience and expertise in areas such as Penetration Testing(Web, Mobile, Network, Cloud) and Source Code Review 
+- Blockchain with 2+ Years of work Experience. Published a couple of papers in international conference and journal*.
+- He has done Masters in Cybersecurity , Engineering in Computer Science and Engineering.
+
+Over to you, sir.
+
+---
+
+Thank you sir, for your very informative talk.
+
+...
+...
+...
+As a token of our love and gratitude, we would like to offer a virtual memento to our session resource person, Mr. Sivadanam Yaswanth Lingam, for his valuable time. The virtual memento is issued as a Non-Fungible Token in opensea.io
+
+Thank you.
+
+### Session 9-II
+I welcome back everyone for second session of the day.
+
+So with due respect i call upon, **Prof. Amit Agarwal**, for her lecture on the topic **"Challenges in Adopting Blockchain Technology".**
+
+
+
+welcome sir,over to you!
+----
+
+Thank you sir, for didactical talk.
+...
+...
+...
+We would now like to offer a virtual memento as a token of our gratitude to our session resource person, Prof. Amit Agarwal, for his valuable time. This virtual memento is issued as a Non-Fungible Token in opensea.io.
+
+wITH THAT, WE HAVE COME TO THE END OF THE FACULTY DEVELOPMENT PROGRAMS.
+
+Thank you.
+
+
+
+
+
 
