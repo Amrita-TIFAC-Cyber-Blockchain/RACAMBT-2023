@@ -1,0 +1,27 @@
+<html>
+	<head>
+		<title>RACAMBT - 2023</title>
+	</head>
+	<body>
+		<center><h1>RACAMBT - 2023</h1>
+			<div>
+				<img id="gal" width="1200"/>
+			</div>
+		</center>
+		<script>
+			var imgArray = [
+	
+			];
+			var curIndex = 0;
+			var imgDuration = 1500;
+
+			function slideShow() {
+				document.getElementById('gal').src = imgArray[curIndex];
+				curIndex++;
+				if (curIndex == imgArray.length) { curIndex = 0; }
+				setTimeout("slideShow()", imgDuration);
+			}
+			slideShow();
+		</script>
+	</body>
+</html>
