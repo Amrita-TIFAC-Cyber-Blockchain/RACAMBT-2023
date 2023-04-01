@@ -409,7 +409,7 @@ Thank you sir.
 
 Thank you, sir.
 
-### Session 1-I
+### Session 7-I
 
 With that note, I call upon our first speaker for the online sessions, **Mr Maharaj M** to deliver his talk on the topic **Recent Challenges in Enterprise Blockchain Projects".**
 
@@ -434,7 +434,7 @@ As a token of our love and gratitude, we would like to offer a virtual memento t
 
 Thank you.
 
-### Session 1-II
+### Session 7-II
 I welcome back everyone for second session of the day.
 
 So with due respect i call upon, **Dr. Sivagami R**, for her lecture on the topic **"Image Analysis using Deep Learning Techniques (P)".**
@@ -508,7 +508,7 @@ So with due respect i call upon, **Mr. Vigneswaran R**, for his lecture on the t
 welcome sir,over to you!
 ----
 
-Thank you ma'am, for didactical talk.
+Thank you sir, for didactical talk.
 ...
 ...
 ...
@@ -562,6 +562,7 @@ So with due respect i call upon, **Dr. Sangeetha V**, for her lecture on the top
 - She has done her PhD in Design of Algoritms for path planning of unmanned ground vehicles in uncertain environments.
 
 welcome maam,over to you!
+
 ----
 
 Thank you ma'am, for didactical talk.
@@ -610,14 +611,20 @@ As a token of our love and gratitude, we would like to offer a virtual memento t
 
 Thank you.
 
-### Session 9-II
+### Session 10-II
 I welcome back everyone for second session of the day.
 
-So with due respect i call upon, **Prof. Amit Agarwal**, for her lecture on the topic **"Challenges in Adopting Blockchain Technology".**
+
+So with due respect i call upon, **Prof. Amit Agarwal**, for her lecture on the topic **"Challenges in Adopting Blockchain Technology."**
+
+- Prof. Amit Agarwal is currently working as an professor in TIFAC CORE in Cybersecurity and in Electrical and Electronics engineering 
+- He has completed his b tech in industrial engineering from NIT Jalandhar
+- He has also done his MS in electrical engineering from Missouri university of science and technology 
+- Professor Amit has done his PhD in electrical engineering from Nanyang Technological university, Singapore and his MSc in financial mathematics from the London school of economics and political science
 
 
+welcome sir, over to you!
 
-welcome sir,over to you!
 ----
 
 Thank you sir, for didactical talk.
@@ -626,7 +633,7 @@ Thank you sir, for didactical talk.
 ...
 We would now like to offer a virtual memento as a token of our gratitude to our session resource person, Prof. Amit Agarwal, for his valuable time. This virtual memento is issued as a Non-Fungible Token in opensea.io.
 
-wITH THAT, WE HAVE COME TO THE END OF THE FACULTY DEVELOPMENT PROGRAMS.
+With that, we have come to the end of faculty development programs.
 
 Thank you.
 
